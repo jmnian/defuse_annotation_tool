@@ -1,0 +1,369 @@
+doc_id,source,document,LLM_q,doc_prompt,reduce_doc,modify_doc
+business_1.json,https://www.economist.com/the-world-this-week/2024/09/05/this-weeks-cover,"This week’s cover T his week we published two covers. In America we consider what to do about the country’s dangerous roads. Each year cars kill roughly 40,000 people there—and not just because it is a big place where people love to drive. The country’s roads are nearly twice as dangerous per mile driven as those in the rest of the rich world. Deaths there involving cars have increased over the past decade, despite the introduction of technology meant to make driving safer. Weight is to blame. Our analysis of 7.5m crashes showed that for every 10,000 crashes the heaviest vehicles kill 37 people in the other car, compared with just 2.6 for the lightest. And the situation is getting worse. In 2023, 31% of new cars in America weighed over 5,000lb (2.27 tonnes), compared with 22% in 2018. This poses a giant collective-action problem. Individually, it is rational for people to buy bigger cars. Yet the sum of those decisions is much more lethal roads.",gpt-4o-mini,dt03,"1. Cars kill about 40,000 people in America every year.  
+2. The roads in America are very dangerous to drive on.  
+3. America’s roads are almost twice as dangerous as roads in other rich countries.  
+4. More people are dying in car accidents now than ten years ago.  
+5. New technology was made to help make driving safer.  
+6. Heavier cars cause more deaths in crashes than lighter cars.  
+7. For every 10,000 crashes, heavy cars kill 37 people in other cars.  
+8. Light cars only kill about 2.6 people for every 10,000 crashes.  
+9. In 2023, 31% of new cars in America were very heavy, over 5,000 pounds.  
+10. Only 22% of new cars were that heavy in 2018.  
+11. People like to buy bigger cars because they think it is good for them.  
+12. When many people buy bigger cars, it makes the roads more dangerous for everyone.  ","1. In 2020, there were over 38,000 traffic fatalities in the United States.
+4. Young drivers aged 16 to 24 are particularly at risk for traffic-related deaths.
+7. Government initiatives are being implemented to promote safe driving practices.
+10. Traffic fatalities have been a persistent issue despite advancements in vehicle safety technology."
+business_2.json,https://www.economist.com/the-world-this-week/2024/08/08/this-weeks-covers,"This week’s covers W e came into this week with one cover, but by the time we went to press, we had split the issue three ways. Early Monday morning, as share prices crashed in Tokyo, the markets were on our mind. Later that day, Sheikh Hasina, the prime minister of Bangladesh, fled her country, ending 15 years of increasingly autocratic rule. And by Tuesday, Britain was gripped by what seemed to us to have become its worst race riots since the second world war. All the while we were watching out for a catastrophic escalation of the fighting in the Middle East. Hardly the dog days of August.
+
+
+
+Traders say that buying and selling in a crashing market is like catching a falling knife. It’s the same with market covers: you never know whether a plunge like the one we saw on Monday is just the beginning of the red ink or a passing scare. Fortunately, if there was no crash, we had a theme there in front of us, because the fundamental cause of the sell-off was anxiety about an American recession.",gpt-4o-mini,dt03,"1. This week started with one magazine cover.  
+2. By the time we finished, we had three covers.  
+3. Share prices fell a lot in Tokyo on Monday morning.  
+4. The prime minister of Bangladesh, Sheikh Hasina, left her country.  
+5. Sheikh Hasina's departure ended 15 years of tough rule.  
+6. On Tuesday, there were big race riots in Britain.  
+7. These riots were the worst since World War II.  
+8. We were worried about fighting getting worse in the Middle East.  
+9. August is usually a quiet time, but not this week.  
+10. Traders say that buying in a crashing market is very risky.  
+11. A market crash can be either a big problem or just a short scare.  
+12. People were worried about a possible recession in America.","1. The article covered recent political developments in the country.
+4. The edition included interviews with prominent political figures and analysts.
+7. Protests erupted in multiple cities following her announcement.
+10. International reactions were mixed, with some countries expressing support and others condemning the actions of the government."
+business_3.json,https://www.economist.com/the-world-this-week/2024/07/04/this-weeks-covers,"This week’s covers W e had one worldwide cover in print this week, about the growing pressure on Joe Biden to abandon the race for the White House. Unusually, we also had one extra digital cover. This was our take on the outcome of the British election, which was determined after we went to press.
+
+
+
+Mr Biden had planned for the presidential debate on June 27th to prove his critics wrong about the decline in his mental abilities, and so to revive his ailing campaign. Instead he struggled for 90 agonising minutes to recall words and facts and was unable to land arguments against a weak opponent. It was a catastrophe.
+
+
+
+Mr Biden is blameless for his failing powers, but not for the cover-up that followed the debate. Abetted by his family, senior staff and Democratic elites, the president has insisted that he is still up to the world’s toughest job. The folly behind that falsehood became the central thrust of our argument.",gpt-4o-mini,dt03,"1. Joe Biden is facing pressure to stop running for president.  
+2. There was a special digital cover about the British election results.  
+3. The British election results came out after the magazine was printed.  
+4. Joe Biden wanted to show he was mentally sharp during a debate on June 27th.  
+5. The debate lasted for 90 minutes.  
+6. Joe Biden had trouble remembering words and facts during the debate.  
+7. He could not argue well against his opponent.  
+8. The debate was a big failure for Joe Biden.  
+9. Joe Biden's poor performance is not his fault, but he is hiding it.  
+10. His family and staff are helping him say he can still do his job.  
+11. The article argues that it is wrong for him to pretend he is okay.  
+12. People are worried about Joe Biden's ability to be president.  ","1. President Biden is preparing for the upcoming presidential election.
+4. The election is set to take place in November 2024.
+7. The debate was broadcasted live on national television and attracted a large audience.
+10. Many voters expressed dissatisfaction with Biden's handling of key issues."
+business_4.json,https://www.economist.com/the-world-this-week/2024/05/23/this-weeks-covers,"This week’s covers W E have two covers this week. In most of the world we consider why baby-boosting policies won’t work. As birth rates plunge in rich countries, many politicians are keen to pour money into policies that might lead women to have more children. Yet all these attempts are likely to fail, because they are built on a misapprehension. The bulk of the decline in the fertility rate in such countries is among younger, poorer women who are delaying when they start to have children, and who therefore have fewer overall. Focusing on these women as a group would be bad for them and for society. Teenage pregnancies are linked to poverty and ill health for both mother and child. Targeted incentives would roll back decades of efforts to curb unwanted teenage pregnancy and encourage women into study and work. Most economies will therefore have to adapt to social change, and it falls to governments to smooth the way.",gpt-4o-mini,dt03,"1. This week, there are two important topics to discuss.  
+2. Many rich countries have fewer babies being born.  
+3. Some politicians want to give money to encourage more babies.  
+4. These money plans might not work very well.  
+5. The main reason for fewer babies is that younger, poorer women are waiting longer to have kids.  
+6. Waiting to have children means these women may have fewer babies overall.  
+7. It is not good to focus only on younger, poorer women for baby-boosting plans.  
+8. Teenage pregnancies can lead to problems like poverty and poor health.  
+9. We should not encourage teenage pregnancies with these plans.  
+10. Helping women to study and work is important.  
+11. Economies need to change to fit the new social habits.  
+12. Governments should help make these changes easier for everyone.","1. Recent studies show that many developed nations are experiencing a significant decline in birth rates.
+4. This trend has raised concerns about the future workforce and sustainability of social services.
+7. Some countries are implementing family-friendly policies to encourage higher birth rates.
+10. Economic stability and job security are crucial factors influencing couples' decisions to have children."
+business_5.json,https://www.economist.com/the-world-this-week/2024/05/02/this-weeks-covers,"This week’s covers W E HAD TWO covers this week. In most of the world we featured our interview with Emmanuel Macron, France’s president. In Asia we looked at the science behind the threat from disinformation.
+
+
+
+Our interview with Mr Macron took place in the opulent salon doré, which looks out from the first floor onto the expansive gardens of the Elysée Palace. It was a beautiful spring day and I was joined by our Paris bureau chief, Sophie Pedder. Through a half-open French window onto the balcony, you could hear birdsong. The jollity made Mr Macron’s apocalyptic warning about Europe’s future all the more shocking.
+
+
+
+His worry is not just for the European Union, or even the defence of European territory. It is about the durability of a set of rules and values, underpinned by economic wealth and physical security, which bind all Europeans. European civilisation, he told us, is in mortal danger.",gpt-4o-mini,dt03,"1. This week we had two covers in our magazine.  
+2. We interviewed Emmanuel Macron, who is the president of France.  
+3. The interview took place in a fancy room called the salon doré.  
+4. The salon doré looks out at the big gardens of the Elysée Palace.  
+5. It was a beautiful spring day during the interview.  
+6. Sophie Pedder, our Paris bureau chief, joined for the interview.  
+7. You could hear birds singing through a half-open window.  
+8. Mr. Macron shared a very serious warning about Europe’s future.  
+9. He is worried about more than just the European Union.  
+10. His concern includes the rules and values that keep Europeans together.  
+11. He believes that European civilization is in great danger.  
+12. Mr. Macron talked about the importance of economic wealth and safety for everyone in Europe.  ","1. The article was featured in a prestigious international magazine.
+2. One cover featured an exclusive interview with a prominent European leader.
+3. The interview took place in the salon doré at the Elysée Palace.
+4. The magazine had two different covers for this special edition.
+5. The second cover highlighted upcoming events in the European political landscape.
+6. The atmosphere was peaceful and serene, enhancing the conversation.
+7. The interview was conducted by an award-winning journalist.
+8. The leader shared his vision for a stronger and more cohesive Europe.
+9. He emphasized the need for unity among European nations.
+10. He called for collaboration in tackling common challenges.
+11. He identified rising nationalism and economic instability as significant threats.
+12. He urged leaders to take immediate action to address these threats."
+business_6.json,https://fortune.com/well/2024/09/20/melinda-french-gates-sleep-ceo/,"Melinda French Gates rips into the sleep habit Bill Gates once loved Do CEO trends make you roll your eyes? You’re in good company, if so. One of the most powerful figures in philanthropy, Melinda French Gates, recently cut through the noise in an interview with Vanity Fair. Dismissing the supposed valor of executives who fill sleepless nights with work, French Gates calls the phenomenon “so dumb.” In shrugging off the CEO all-nighter, French Gates is also railing against the larger machismo and puritan ethos that praises at least pretending to work oneself to the bone. This past spring, French Gates left the Bill and Melinda Gates Foundation, which she ran for more than 20 years with ex-husband and Microsoft founder Bill Gates. Departing with $12.5 billion under her wing, French Gates tweeted that it was time for her to move into the “next chapter” of her philanthropic journey. On her own, French Gates has wasted no time in carving her distinct path. She immediately donated $1 billion to women’s rights and reproductive rights groups, backed a presidential candidate for the first time, and called out other billionaires like Elon Musk for what she described as their lack of philanthropic efforts. That’s all to say: French Gates isn’t holding back. And when it comes to men who say they don’t sleep, she’s not shy about sharing her thoughts. Whether it be their ego or sleep deprivation, these men aren’t necessarily all that great to share a room with, French Gates tells Vanity Fair. Herself aiming for seven or eight hours of sleep, she notes that many of the men who assert that they sleep three or four hours aren’t exactly a blast to hang out with.",gpt-4o-mini,dt03,"1. Melinda French Gates thinks it is silly for CEOs to brag about working all night.  
+2. She believes that not sleeping well is not something to be proud of.  
+3. Melinda French Gates used to work at the Bill and Melinda Gates Foundation for over 20 years.  
+4. She left the foundation with $12.5 billion to help others.  
+5. After leaving, she said it was time for a new chapter in her life.  
+6. Melinda donated $1 billion to help women and their rights.  
+7. She supported a presidential candidate for the first time.  
+8. Melinda criticized other wealthy people like Elon Musk for not helping enough.  
+9. She thinks men who say they sleep very little are not fun to be around.  
+10. Melinda aims to get seven or eight hours of sleep each night.  
+11. She believes that good sleep is important for feeling good.  
+12. Melinda is very open about her thoughts on how men talk about sleep.  ","1. She is a successful entrepreneur and public figure.
+4. She has witnessed the negative effects of burnout in herself and others.
+7. She aims to inspire a new generation of leaders who prioritize well-being.
+10. She promotes the idea that wealth should be used to create positive change in society."
+business_7.json,https://fortune.com/2024/09/20/ftc-sues-cvs-cigna-unitedhealth-insulin-prices/,"FTC Sues CVS, Cigna, UnitedHealth over insulin prices The US Federal Trade Commission sued units of CVS Health Corp., Cigna Group and UnitedHealth Group Inc. on Friday, accusing the drug middlemen of engaging in illegal rebate programs that drove up the price of insulin. The agency said it filed a complaint in its administrative court alleging that CVS’s Caremark, Cigna’s Express Scripts and UnitedHealth’s Optum Rx accepted money from drugmakers in exchange for keeping lower-cost insulin off their lists of approved drugs. The companies’ affiliated group purchasing organizations — started in recent years to negotiate rebate payments with drugmakers — were also named. The enforcement action is part of an escalating conflict between the FTC and the three pharmacy benefit managers that together control about 80% of prescriptions filled in the US. Since the companies have merged with larger health conglomerates that also own insurers, pharmacies, and doctors clinics, they’ve faced intensifying pressure in Washington. The drug gatekeepers favored versions of insulin with higher upfront prices and bigger rebate payments from pharmaceutical companies, which shifted more costs onto patients, the FTC alleged. The PBMs collected billions in rebates and fees as the list price of a common insulin, Humalog, rose 1,200% between 1999 and 2017, the agency said. It didn’t make its filing available immediately, but described it in materials shared with reporters. The administrative complaint starts a process whereby the allegations will be tried in a formal hearing before an administrative law judge, the agency said. Shares of the big PBMs’ parent companies dipped on the news, with CVS falling 1.8% at 12:58 pm. Cigna and UnitedHealth were both down less than 1%.",gpt-4o-mini,dt03,"1. The FTC is suing CVS, Cigna, and UnitedHealth because they are accused of making insulin prices higher.  
+2. The companies are called pharmacy benefit managers, or PBMs for short.  
+3. The FTC says these companies accepted money from drugmakers to keep cheaper insulin off their lists.  
+4. CVS’s Caremark, Cigna’s Express Scripts, and UnitedHealth’s Optum Rx are the parts of the companies being sued.  
+5. These companies control about 80% of the prescriptions filled in the US.  
+6. The cost of a common insulin called Humalog went up 1,200% from 1999 to 2017.  
+7. The FTC believes that the PBMs preferred expensive insulin because they got bigger payments from drug companies.  
+8. This forced patients to pay more money for their insulin.  
+9. The lawsuit will be heard by an administrative law judge.  
+10. The companies’ stock prices went down after the news of the lawsuit.  
+11. CVS's stock fell by 1.8%.  
+12. Cigna and UnitedHealth's stocks both fell by less than 1%.  ","1. The Federal Trade Commission (FTC) has filed a lawsuit against several pharmacy benefit managers (PBMs).
+4. The lawsuit targets major PBMs like Cigna and UnitedHealth for their pricing practices.
+7. The rising cost of insulin has led to increased scrutiny and calls for reform in the pharmaceutical industry.
+10. Advocacy groups are urging lawmakers to take action to regulate insulin prices and improve access for patients."
+business_8.json,https://fortune.com/2024/06/20/reverse-aging-health-longevity-implications-society/,"I’ve been practicing medicine at a renowned institution for 40 years. Society isn’t ready for us to reverse the aging process across an entire population Within the past couple of years, in shots heard literally and figuratively around the developed world, a new class of drugs called GLP-1 receptor agonists, so-called “weight loss drugs,” captivated the world to such an extent that their primary manufacturers, Eli Lilly and Novo Nordisk, can’t keep up with the demand for them. People who were morbidly obese or just slightly overweight suddenly saw the possibility that they could have the svelte body image they wanted. The market for these drugs is expected to reach $100 billion in 2030, after manufacturing finally catches up. Senator Bernie Sanders, no fan of pharmaceutical lobbyists, recently said that demand for these drugs could eventually bankrupt the Medicare program. If the scourge of obesity—which affects more than two in five adults in the U.S.—can be reversed so suddenly by a new development in medical science, it takes no great stretch of the imagination to contemplate the day when another ubiquitous “affliction” can be similarly addressed: aging. Already, research on the primary drivers of aging abounds. Stem cell and proteostatic dysfunction, telomere erosion, DNA damage, mitochondrial dysfunction, inflammation…all are the subjects of numerous studies, and the work advances each day. In just one example, researchers from Cold Spring Harbor Laboratory in New York have recently discovered that T cells in the body can be reprogrammed to slow down and even reverse aging. Gene splicing could also play a role in the future. The race to ‘cure’ aging
+
+As a physician, I believe there may be a biological mechanism that triggers the onset of aging and that with enough research, we will discover what it is.",gpt-4o-mini,dt03,"1. A doctor has been practicing medicine for 40 years.  
+2. Society is not ready to stop people from getting older.  
+3. New drugs called GLP-1 receptor agonists help people lose weight.  
+4. Many people want these weight loss drugs, and they are hard to get.  
+5. Two companies, Eli Lilly and Novo Nordisk, make these drugs.  
+6. The market for these weight loss drugs might be worth $100 billion by 2030.  
+7. A senator said these drugs could cost too much for Medicare.  
+8. More than two out of five adults in the U.S. are very overweight.  
+9. Scientists are studying how to stop or slow down aging.  
+10. Researchers found ways to change T cells to help slow aging.  
+11. Changing genes might help us in the future with aging.  
+12. The doctor thinks there is a reason why we start to age, and we might find out what it is.","1. Recent studies highlight the growing prevalence of obesity in older adults.
+4. Many individuals are turning to weight loss drugs as a solution to obesity.
+7. There is ongoing debate among healthcare professionals about the long-term effects of these drugs.
+10. Public health campaigns are being launched to raise awareness about the risks of obesity."
+business_9.json,https://fortune.com/crypto/2024/09/20/big-investors-flock-to-binance-in-post-cz-era-ceo-says/,"Big investors flock to Binance in post-CZ era, CEO says Binance CEO Richard Teng announced this week that the crypto giant has seen a 40% increase in corporate and institutional investors over the past year. In an interview with CNBC, Teng also touted Binance’s 225 million userbase, which he says is exponentially growing. “The first hundred million took us five years to onboard,” Teng said. “The next hundred million took us two years and the pace of adoption is going to be much faster.”
+
+Teng stepped into the role of CEO in late 2023 after both Binance and the company’s founder Changpeng Zhao pled guilty last November to criminal charges related to money-laundering on the platform. Binance agreed to pay a $4.3 million fine to resolve the matter, one of the largest such settlements in U.S. history. In the wake of this transition of leadership, Binance saw an outflow of nearly $1 billion and its native coin, BNB, abruptly fell by 9%. At the time, it was uncertain if Teng would be able to shore up confidence in Binance but, based on his remarks, it appears the company has turned the page on its legal troubles and continued to grow. A former regulator, Teng has sought to shake off Binance’s lawless reputation, in part by adopting a measured tone and leaning into compliance efforts. In the wake of the historic settlement, he has made significant changes to the company’s corporate structure. This has included introducing a board of seven directors as part of an effort to distance the company from Zhao, though most are company insiders. Teng has also increased compliance spending to $200 million and is expanding the department to ensure the company is conforming to regulatory requirements around anti-money-laundering laws and know-your-customer protocols.",gpt-4o-mini,dt03,"1. Binance has gained 40% more big investors in the last year.  
+2. Binance now has 225 million users.  
+3. The first 100 million users took five years to join Binance.  
+4. The next 100 million users joined in just two years.  
+5. Richard Teng became the CEO of Binance in late 2023.  
+6. The founder of Binance, Changpeng Zhao, faced criminal charges.  
+7. Binance paid a $4.3 million fine for legal issues.  
+8. Binance lost nearly $1 billion after the leadership change.  
+9. The value of Binance's coin, BNB, dropped by 9%.  
+10. Richard Teng is trying to make Binance follow the law better.  
+11. Teng made changes to the company's leadership structure.  
+12. Binance is spending $200 million to improve its compliance efforts.","1. Binance reported a record quarterly revenue, highlighting its financial success.
+4. The platform has introduced new features to enhance user experience and engagement.
+7. Binance launched educational programs to help users understand cryptocurrency trading.
+10. The company is actively seeking partnerships to expand its global reach and influence."
+business_10.json,https://fortune.com/2024/09/20/what-renters-want-zillow/,"Here’s what renters really want, according to Zillow Renters want cheaper rent, but they’ll settle for some not-so-basic amenities. “Today’s most in-demand rental amenities are not traditional luxury amenities like a fitness center, pool, or business center,” according to Zillow. It’s pet areas and happy hours. “Listings with a turfed pet area, coworking space or community happy hours are drawing more interest as renters appear to be prioritizing practical amenities and community-focused perks,” the analysis read. Completely understandable, in my mind. Who doesn’t love puppies and cocktails? For the analysis, Zillow looked at almost six million rental listings, from apartment complexes to single family homes, and found specific amenities that contributed to more saves and shares per day—a signal of demand, it said. To be clear, this isn’t a science, everyone likes different things. Still, “the most in-demand amenities are off-street parking and in-unit laundry,” according to Zillow. Listings with mentions of off-street parking received 85% more saves and 103% more shares; those with mentions of in-unit laundry received 76% more saves and 67% more shares per day. Of course, those two are somewhat necessary and practical. Fun comes after. Homes with pet-friendly spots resulted in 76% more daily saves and 91% shares; homes with air filtration mechanisms (less fun, but more or less practical in a post-pandemic world) got 72% more saves and 79% more shares; places that offer happy hours got 50% more saves and 67% shares; and rentals with coworking spaces got 16% more saves and 23% more shares.",gpt-4o-mini,dt03,"1. Renters want cheaper rent for their homes.  
+2. Renters like practical things instead of fancy amenities.  
+3. Pet areas are very popular among renters.  
+4. Happy hours are also something renters enjoy.  
+5. People are interested in homes with off-street parking.  
+6. Homes with in-unit laundry make renters happy.  
+7. Listings with off-street parking get saved a lot more.  
+8. Listings with in-unit laundry are saved and shared often.  
+9. Pet-friendly homes have many saves and shares too.  
+10. Homes with air filters are liked by renters after the pandemic.  
+11. Places that have happy hours are saved more by renters.  
+12. Rentals with coworking spaces are getting some attention.  ","1. Renters are prioritizing affordability in their housing choices.
+4. Renters are concerned about the overall condition and maintenance of the properties.
+7. Renters are increasingly interested in eco-friendly living options.
+10. Renters desire access to local shops and restaurants."
+business_11.json,https://fortune.com/2024/09/20/youtube-google-ads-pauses-advertisers-revenue-alphabet-stock/,"YouTube introduces ads during pauses More ads are coming to YouTube, and users are outraged. The Google-owned company confirmed Thursday that it will present users with ads on the side of their screen whenever they pause a video. YouTube said in a statement to the Verge that it had “widely rolled out Pause ads to all advertisers,” starting this week after testing them since last year. The new ad experience is meant to keep the video viewing experience as uninterrupted as possible, a Google spokesperson said in a statement to CNN. “This is seamless for viewers and allows them to learn more about a brand. It’s been a beneficial update for the entire YouTube ecosystem and one of the elements of the modern [connected TV] ads experience,” the spokesperson said. Google did not immediately respond to Fortune‘s request for comment. Yet some users online questioned why they have to sit through yet another stream of promotions on the platform. Others questioned the logic of the new ad placement, arguing that when someone pauses a video it’s usually because they’re doing something else. There's a legit reason why we pause videos @YouTube @TeamYouTube Like talking to people if you're gonna make ads unstoppable and unskippable you're going to be asking for trouble. A.k.a. fed up people that are gonna find a better platform. https://t.co/09uB2Svrwz — Trav 🦝 (@NewfieTanuki) September 19, 2024
+
+I’m a YouTuber so bear that in mind when you hear my opinion:
+
+
+
+This is fine. If you’ve paused the video… you’re not watching.",gpt-4o-mini,dt03,"1. YouTube is adding ads that show up when people pause a video.  
+2. Many users are upset about these new ads.  
+3. YouTube is owned by Google.  
+4. The new ads started this week after being tested for a year.  
+5. YouTube says the ads will not interrupt the video watching experience.  
+6. The ads are meant to help people learn about different brands.  
+7. Some users wonder why they have to see more ads on YouTube.  
+8. People usually pause videos because they are doing something else.  
+9. Some users think that showing ads during pauses is not a good idea.  
+10. A YouTuber mentioned that pausing a video means you are not currently watching it.  
+11. The new ads are part of a modern way to show ads on TV.  
+12. People are worried they might leave YouTube for other platforms because of too many ads.  ","1. YouTube is introducing a new ad format to its platform.
+4. The new ads will be shown in addition to existing ad formats.
+7. YouTube has received mixed reactions from users regarding the new ad format.
+10. Some users have reported experiencing longer ad breaks than before."
+business_12.json,https://fortune.com/2024/09/19/vcs-for-kamala-harris-presidential-election-silicon-valley-donald-trump/,"‘VCs for Kamala’ went viral among the Silicon Valley elite. Here’s why I started it Last month, I accidentally started a movement. I was feeling frustrated that a few loud voices in tech were creating the impression that our whole industry had gone MAGA. In my frustration, I bought a URL, wrote a three-paragraph pledge, put it in Google Forms, designed a logo, built a website, and, with the help of friends, volunteers, and one very prominent LP, collected signatures from more than 100 venture capitalists—all in less than a week. Upon its reveal, the “VCs for Kamala pledge” went viral and changed the conversation in our industry. As of today, more than 850 VCs representing more than $300 billion in assets under management, including a who’s who of Silicon Valley, have signed. Let me be the first to admit that I am an unlikely political voice of venture capital. For one thing, I have not been a VC for long—I spent most of my career as a founder and operator before raising my first fund in late 2020. I am also an immigrant from Costa Rica who up until recently couldn’t vote in America—this will be the second presidential election in which I can participate. What might shock you most of all is that I’m not even a Democrat. I am an independent voter whose beliefs were shaped in a very different culture and don’t map cleanly to the American political spectrum. Where VCs draw the line
+
+So why would a moderate independent who’s never been involved in politics and runs a small fund on a shoestring budget take on the loud, powerful, deep-pocketed MAGA crowd?",gpt-4o-mini,dt03,"1. A person started a movement called ""VCs for Kamala"" because they were frustrated with some voices in tech.  
+2. They created a website and a pledge in just one week.  
+3. Over 100 venture capitalists signed the ""VCs for Kamala pledge.""  
+4. The pledge became very popular and changed how people talked in the industry.  
+5. More than 850 VCs have signed the pledge so far.  
+6. The VCs who signed represent more than $300 billion in assets.  
+7. The person who started this is not a long-time venture capitalist.  
+8. They were a founder and operator before becoming a VC in 2020.  
+9. They are originally from Costa Rica and could not vote in America until recently.  
+10. This is their second time being able to vote in a presidential election.  
+11. The person is not a Democrat; they are an independent voter.  
+12. They want to stand up against the loud MAGA crowd despite their small fund size.","1. The movement was launched in 2021.
+4. The movement aims to increase the representation of women and minorities in leadership positions.
+7. The movement has gained traction on social media platforms, amplifying its message. 
+10. The founder has previously worked for several high-profile tech companies."
+business_13.json,https://fortune.com/2024/09/19/anti-aging-bryan-johnson-oracle-ceo-larry-ellison-age-death/,"Anti-aging fanatic Bryan Johnson praises 80-year-old Larry Ellison for ‘doing a good job managing biological aging’ In addition to Oracle founder Larry Ellison’s $206 billion net worth and his $456 billion enterprise software company, the 80-year-old has attracted attention for another reason: His youthful glow. Bryan Johnson, a 47-year-old tech founder who invests $2 million a year in his own anti-aging efforts, recently remarked upon Ellison’s appearance. “Ellison, now 80, is doing a good job managing biological aging,” Johnson wrote on X Sunday. Fighting the inevitable and universal experience of growing old has been a project of Ellison’s for years. He’s donated over $350 million to research on aging and age-related disease. With a self-described “addiction to winning,” Ellison, the newly crowned second-richest person in the world, has applied a similar urgency to his personal health. He’s been known to sip carrot juice and frequent the gym for hours a day. Gina Smith, co-founder and editor-in-chief of media site aNewDomain, said in a 2018 Quora post that when she worked with Ellison in the 1990s and 2000s, he drank only green tea and water, and largely ate fish, vegetables, and fruit. Mortality has perplexed Ellison for decades. His biological mother left his family when Ellison was a child, and his adoptive mother died of cancer during his time in college. “Death has never made any sense to me,” Ellison told biographer Mike Wilson. “How can a person be there and then just vanish, just not be there?”
+
+Ellison, now 80, is doing a good job managing biological aging
+
+
+
+pic.twitter.com/7uGzCSodWW — Bryan Johnson /dd (@bryan_johnson) September 16, 2024
+
+Fortune has contacted Ellison and Johnson for comment.",gpt-4o-mini,dt03,"1. Larry Ellison is 80 years old.  
+2. Larry Ellison is very rich, with a net worth of $206 billion.  
+3. He is the founder of a big software company called Oracle.  
+4. Bryan Johnson praises Larry Ellison for looking young.  
+5. Bryan Johnson is 47 years old and spends $2 million each year to look younger.  
+6. Larry Ellison has given over $350 million to study aging.  
+7. Ellison works hard on his health and goes to the gym for many hours.  
+8. He drinks carrot juice to help stay healthy.  
+9. In the past, Ellison only drank green tea and water and mostly ate fish, vegetables, and fruit.  
+10. Larry Ellison has thought about death for a long time.  
+11. His mother left when he was a child, and his adoptive mother died of cancer.  
+12. Ellison finds it confusing how people can be here one moment and gone the next.","1. Larry Ellison was born on August 17, 1944, in New York City.
+4. Larry Ellison has been a prominent figure in the tech industry for several decades.
+7. Ellison has been known to invest in anti-aging research and biotechnology.
+10. Bryan Johnson is also known for his ambitious project to reverse aging and improve health."
+business_14.json,https://fortune.com/2024/09/20/three-mile-island-reopens-microsoft-ai/,"Three Mile Island is reopening Three Mile Island, the site of the worst nuclear accident in U.S. history, is opening up once again. Microsoft and Constellation Energy, which owns the plant, have struck a deal that will see the plant’s undamaged reactor resume operations to power Microsoft’s AI data centers. Microsoft has signed a 20-year power-purchase agreement with Constellation, which will spend $1.6 billion to restart the reactor. It’s expected to be operational again by 2028. Constellation shares were up 14% in early trading Friday morning. “Before it was prematurely shuttered due to poor economics, this plant was among the safest and most reliable nuclear plants on the grid, and we look forward to bringing it back with a new name and a renewed mission to serve as an economic engine for Pennsylvania,” said Joe Dominguez, president and CEO of Constellation in a statement. Read more: I loved my job at Microsoft, but I had to resign on principle. Here’s why
+
+The facility’s Unit 1 reactor will be restarted. That facility sits next to the Unit 2 reactor that had the partial meltdown in 1979. Unit 1 “permanently shut down” on Sept. 20, 2019 after starting operations in 1974. Constellation purchased the unit in 2000, and it produced enough electricity in the following years to power 800,000 homes for almost two years and “offset more than 95 million metric tons of carbon, the equivalent of nearly 20 million cars off the road,” the company says. Constellation was not the owner of the Unit 2 reactor. The owners of approximately one-third of the country’s nuclear power plants are reportedly taking with companies to help power data centers.",gpt-4o-mini,dt03,"1. Three Mile Island is reopening after being closed for a long time.  
+2. It is the place where the worst nuclear accident in U.S. history happened.  
+3. Microsoft and Constellation Energy made a deal for the plant to start working again.  
+4. The plant will power Microsoft’s AI data centers.  
+5. Constellation will spend $1.6 billion to restart the reactor.  
+6. The reactor is expected to be working again by the year 2028.  
+7. Constellation's stock price went up by 14% after the announcement.  
+8. The Unit 1 reactor will be restarted, which is different from the one that had an accident.  
+9. Unit 1 was shut down in September 2019 after operating since 1974.  
+10. Constellation bought Unit 1 in the year 2000.  
+11. The plant once produced enough electricity for 800,000 homes for almost two years.  
+12. The plant helped reduce pollution by cutting down a lot of carbon emissions.  ","1. Three Mile Island is located in Pennsylvania.
+4. The accident was caused by a combination of mechanical failures, design-related problems, and worker errors.
+7. The plant was closed following the accident and has since been decommissioned.
+10. The restart will involve significant investment in technology and safety measures."
+business_15.json,https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/a-new-era-trends-shaping-chinas-heavy-duty-trucking-industry,"A new era: Trends shaping China’s heavy-duty trucking industry The Chinese heavy-duty-truck (HDT) market has faced a variety of challenges. Nearly a decade of rapid growth gave way in 2022, with sales plummeting 45 percent year over year. As the market finds its footing, several new trends are at play: the emergence and rise of new powertrains, partnerships exploring autonomous driving, an increase in exports, and customer pressure on pricing. What does it all mean for HDT OEMs in China? This article explores these trends in depth and in the context of the current market and suggests opportunities for Chinese OEMs both within the country and outside it. The heavy-duty-truck market in China today
+
+About the authors This article is a collaborative effort by Anna Herlt, Dominik Luczak, and Thomas Fang, with Alexander Will, Allen Zhuang, and Danhua Ouyang, representing views from McKinsey’s Automotive & Assembly Practice. Several factors are contributing to the current state of China’s HDT market. A stabilizing market
+
+In 2023, sales in China’s HDT market rebounded somewhat from a dramatic dip in 2022 to about 900,000 trucks (including exports), driven by the recovery of the domestic market and an increase in exports. Excluding exports, the domestic market achieved 616,000 truck sales in 2023, benefiting from the rebound of key sectors, such as logistics, and the country’s economic recovery (Exhibit 1). Indeed, China’s GDP growth rate in 2023 was 5 percent compared with about 3 percent in 2022. 1
+
+However, the market is not expected to fully recover to 2020 levels, marked by nearly 1.6 million truck sales, in the near future.",gpt-4o-mini,dt03,"1. China's heavy-duty truck market has faced many problems.  
+2. Truck sales in China dropped by 45 percent in 2022.  
+3. In 2023, truck sales in China went up to about 900,000.  
+4. The increase in sales was helped by more exports and a recovering market.  
+5. Without exports, China sold 616,000 trucks in 2023.  
+6. Key sectors like logistics helped the truck sales go up.  
+7. China's economy grew by 5 percent in 2023.  
+8. In 2022, China's economy only grew by about 3 percent.  
+9. The heavy-duty truck market is not expected to reach 2020 sales levels soon.  
+10. In 2020, nearly 1.6 million trucks were sold in China.  
+11. New trends in the market include new powertrains and autonomous driving.  
+12. Customers are putting pressure on truck prices in China.","1. The heavy-duty truck market in China is recovering from the effects of the COVID-19 pandemic.
+4. Supply chain disruptions have led to delays in truck production and delivery.
+7. The average price of heavy-duty trucks has increased due to rising material costs.
+10. Environmental regulations are pushing manufacturers to innovate and produce cleaner vehicles."
+business_16.json,https://www.mckinsey.com/industries/social-sector/our-insights/the-role-of-technology-in-the-arts-an-interview-with-deborah-rutter,"The role of technology in the arts: An interview with Deborah Rutter The conventional view of art may be that it is incompatible with technology. But in recent years, digital forms of art have complemented and perhaps enhanced traditional arts such as opera, film, and dance. In her ten years at the helm of the Kennedy Center, Deborah Rutter has led a variety of initiatives to foster interdisciplinary programming. Rutter spoke with McKinsey senior partner Ian Jefferson about the critical role of technology in the arts and how digital art forms can heighten the live experience. An edited transcript of their conversation follows. Ian Jefferson: Coming out of COVID-19, there was a ramp-up in the use of digital platforms and digital access to the arts. Recently, there has been an increase in conversations about generative AI and its role in the arts. Have you seen technology change the way the arts are performed, created, and experienced? And are there any examples that you think we can draw lessons from? Deborah Rutter: Technology is something that’s always happening faster than those of us who don’t live in a technology world can keep up with. I remember the conversations when we were going from vinyl LP to eight-track to cassette tape to CD, and the trauma of thinking, “Oh, my goodness, it’s going to put us out of business.” I think the fear can come from the unknown. That fear is understood in the world of an artist. But artists are explorers. Artists are always changing, always evolving, looking to see how their art will change over time. So technology is absolutely an important ingredient, an important piece of the action, as it were.",gpt-4o-mini,dt03,"1. Many people think art and technology do not go together.  
+2. Digital art helps make traditional arts like opera and dance even better.  
+3. Deborah Rutter is a leader at the Kennedy Center.  
+4. Rutter has worked for ten years to mix different types of art together.  
+5. Technology is important for improving how we experience art.  
+6. After COVID-19, more people used digital tools to access art.  
+7. There are new discussions about how AI can help in the arts.  
+8. Technology changes how art is made and performed.  
+9. People used to worry that new technology would replace old art forms.  
+10. Artists are always looking for new ways to change their art.  
+11. Fear of technology is common among artists, but they keep exploring.  
+12. Technology is a key part of the art world today.","1. The art world is undergoing significant changes due to advancements in technology.
+2. However, the integration of technology in art is growing.
+3. Artists are increasingly using technology to create innovative works.
+4. Many traditional artists are exploring digital tools and platforms.
+5. He believes that combining various mediums can enhance artistic expression.
+6. Virtual reality and augmented reality are becoming popular tools for artists.
+7. New exhibitions are showcasing works that utilize cutting-edge technology.
+8. These conversations are leading to new creative possibilities and projects.
+9. Social media allows artists to reach wider audiences than ever before.
+10. Online platforms are providing artists with new ways to sell and promote their work.
+11. The fusion of digital and traditional art forms is becoming a trend.
+12. Collaborations between technologists and artists are becoming more frequent."
+business_17.json,https://www.mckinsey.com/mhi/our-insights/special-olympics-health-chief-on-championing-inclusive-care,"Special Olympics’ health chief on championing inclusive care Since its founding in 1968, Special Olympics has grown into a global program that provides year-round athletic training and competition for millions of children and adults with intellectual disabilities. The program fosters and celebrates its athletes’ abilities and promotes equal access to healthcare for all, according to Dimitri Christakis, MD, a professor of pediatrics and epidemiology at the University of Washington and the chief health officer at Special Olympics International. Christakis leads the organization’s health programs—including prevention, assessment, training, and health system strengthening—to improve the holistic health of more than five million Special Olympics athletes and others with intellectual disabilities. Sunny Sun, a coleader on disability inclusive health for the McKinsey Health Institute (MHI), caught up with Christakis on the sidelines of the World Health Assembly in Geneva, Switzerland, where the theme was “All for Health, Health for All.” They discussed how Christakis and his team are working to gather disability inclusion data from around the world using the Missing Billion framework. MHI has partnered with the Missing Billion initiative to accelerate the movement on inclusive health and publish novel insights to promote change at scale for 1.3 billion people worldwide living with disabilities. The conversation—part of MHI’s Conversations on Health series—has been edited for clarity and length. Sunny Sun: Approximately 1 to 3 percent of the global population have an intellectual disability—as many as 200 million people. Can you share what Special Olympics International is doing in the disability inclusive health space? Dimitri Christakis: We have four pillars to our health agenda, called the PATH to Health Equity. There’s an acronym there: the P stands for prevention.",gpt-4o-mini,dt03,"1. Special Olympics started in 1968 to help people with intellectual disabilities.  
+2. The program provides sports training and competitions for many children and adults.  
+3. Special Olympics celebrates the abilities of its athletes.  
+4. The program wants everyone to have equal access to healthcare.  
+5. Dimitri Christakis is the health chief at Special Olympics International.  
+6. He helps improve the health of over five million athletes with disabilities.  
+7. The World Health Assembly in Geneva talked about health for everyone.  
+8. Special Olympics is working to collect health data for people with disabilities.  
+9. The Missing Billion initiative helps people with disabilities around the world.  
+10. About 1 to 3 percent of people worldwide have an intellectual disability.  
+11. Special Olympics has a health plan called the PATH to Health Equity.  
+12. The first part of the health plan focuses on prevention.  ","1. Special Olympics was established in 1968.
+4. The organization serves individuals with intellectual disabilities from ages 2 to 99.
+7. Special Olympics offers a variety of sports, including basketball, swimming, and soccer.
+10. The initiative collaborates with healthcare providers to enhance access to care for athletes."
+business_18.json,https://www.mckinsey.com/industries/travel-logistics-and-infrastructure/our-insights/ai-can-transform-workforce-planning-for-travel-and-logistics-companies,"AI can transform workforce planning for travel and logistics companies For many travel and logistics providers, workforce challenges have become an increasing source of anxiety. Labor shortages are frequent and labor costs are rising. Workforce planning missteps can result in reduced margins and degraded customer service. These workforce challenges affect more than three million people employed at the 40 top-grossing travel and logistics companies. About the authors This article is a collaborative effort by Jorge Amar, Neal Parikh, Sal Arora, Scott McConnell, and Taylor Cornwall, with Joseph Faucher, representing views from McKinsey’s Travel, Logistics & Infrastructure Practice. Companies have limited control over the future cost and availability of labor. But proper strategies can help maximize a frontline workforce’s productivity, ensuring the right number of employees are deployed to the right places at the right times. This can build resiliency to handle unexpected events. Across travel and logistics companies—such as airlines, hotels, logistics services providers, and others—significant value could be created through improved workforce management that simultaneously incorporates long-range, near-term, and day-to-day goals. Today’s challenges stem from decisions made over past decades. Although they are rich with data, many companies have underinvested in the foundations and optimization tools that would allow them to use that data to plan more effectively. With limited visibility, workforce planning is often driven by outdated assumptions and methods, frequently resulting in situations where complex workforces are managed using overly simple models and spreadsheets. The tools companies currently use often lack the precision and agility needed to handle today’s workforce complexities in an ever-changing operating environment. Newer solutions, such as generative AI (gen AI), can integrate large and disparate data sets to generate fresh capabilities and greater workforce agility.",gpt-4o-mini,dt03,"1. AI can help travel and logistics companies plan their workers better.  
+2. Many travel and logistics companies have a hard time finding enough workers.  
+3. The cost of hiring workers is getting higher for these companies.  
+4. If companies do not plan their workforce well, they may lose money and upset customers.  
+5. Over three million people work for the top 40 travel and logistics companies.  
+6. The article is written by a team of people from McKinsey.  
+7. Companies cannot always control how much workers will cost in the future.  
+8. Good planning can help companies use their workers in the best way possible.  
+9. Better workforce management can help companies meet their goals every day.  
+10. Many problems today come from decisions made a long time ago.  
+11. Companies have lots of data but often do not use it well for planning.  
+12. New tools like generative AI can help companies be more flexible and smart about their workers.  ","1. Companies are facing a significant labor shortage in various sectors.
+4. Automation and AI are being utilized to fill gaps in labor shortages and enhance productivity.
+7. Many organizations are investing in training and development to retain talent and reduce turnover.
+10. Adopting flexible work arrangements can help attract and retain a diverse workforce."
+business_19.json,https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-talent-can-power-the-telco-to-techco-transformation,"How talent can power the ‘telco to techco’ transformation Telcos worldwide want to evolve from traditional connectivity providers into customer-centric, platform-oriented innovators akin to today’s top tech players. Industry leaders and experts view this shift toward broader services and partner ecosystems as the most promising path to reignited and sustainable growth after many years of declining performance (especially in the European market). As the CEO of one global telco recently noted, “We finally have a shared industry mantra: from traditional telco to techco.”
+
+Talent is a crucial enabler of the “telco to techco” transformation. Without the right capabilities and skills, deployed to maximize their value, even the most impressive tech stack or the richest repository of customer data will be unable to unleash the growth that telcos seek. When asked to identify the key enablers of their value creation plans, more than 80 percent of telco C-suite leaders cited talent—with commercial relationships/organizational setup and culture lagging behind as the other top three priorities (Exhibit 1). 1
+
+Getting talent right is complicated. It involves identifying the skills and capabilities most pivotal to driving growth and finding new ways to attract sought-after workers in a competitive market. It requires an operating model and leadership approach that unleashes productivity, creativity, and collaboration in service of customer-centricity. Talent is also inextricably linked to organizational culture, which can impact candidates’ decisions and, subsequently, their effectiveness and satisfaction on the job. Telcos have traditionally struggled in all of these areas. Previous McKinsey research, for example, revealed that telcos’ key challenges when building new businesses are related to culture—including having too much bureaucracy, a short-term orientation, and lack of management buy-in.",gpt-4o-mini,dt03,"1. Telcos want to change from being just phone companies to becoming tech companies that help customers more.  
+2. This change is important for telcos to grow and do better after having a hard time for many years.  
+3. Many leaders in the telco industry believe that working with more partners will help them grow.  
+4. The CEO of a big telco said everyone agrees on this new goal of becoming tech companies.  
+5. Having the right talent is very important for this change to happen.  
+6. If telcos do not have skilled workers, they cannot grow, even with good technology and data.  
+7. More than 80 out of 100 telco leaders think talent is the most important part of their growth plans.  
+8. Finding and keeping talented workers is hard for telcos because of competition.  
+9. Companies need to create a work environment that encourages teamwork and creativity.  
+10. The culture of a company can affect how happy and effective workers are in their jobs.  
+11. Telcos have had trouble making these changes because of too many rules and a focus on short-term goals.  
+12. Good leadership is needed to help workers do their best and focus on customers.  ","1. The telecommunications industry is experiencing a digital transformation.
+4. This transformation is also being influenced by regulatory changes and competitive pressures.
+7. Companies must prioritize diversity and inclusion to enhance their workforce and drive innovation.
+10. The demand for digital services and solutions is rapidly increasing among consumers and businesses alike."
+business_20.json,https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-europes-electric-truck-charging-infrastructure,"Building Europe’s electric-truck charging infrastructure The expected global mass rollout of electric trucks is going to require a dense charging network to keep these zero-emission vehicles moving. For Europe, McKinsey estimates that, by 2030, more than 300,000 public and private charge points will be required across the continent for medium- and heavy-duty trucks, up from roughly 10,000 today. The creation of this new infrastructure represents a significant challenge. Building out robust networks of chargers will require approximately €40 billion of capital investment until 2040. Of this, €7 billion of investments are needed until 2030, less than a quarter of which has been publicly committed today. It will also be energy-intensive, consuming 20 terawatt-hours (TWh) of electricity annually by 2030, roughly 0.5 percent of Europe’s total electricity demand. Gaining access to all this energy will often mean securing additional capacity on an already congested grid. At the same time, the possibilities are wide open. With no incumbent players fully established in the electric truck–charging market, companies from a variety of arenas have an opportunity to shape the ecosystem of market participants, creating new businesses or forging strategic collaborations. This article is based on charging infrastructure research from the McKinsey Center for Future Mobility and McKinsey’s EV Charging Infrastructure Service Line. We look at how Europe’s charging network will evolve over the next decade and beyond, identifying major challenges players will need to solve for. Our analysis also details the steps fleet operators will need to take as they develop strategies for a successful scale-up of their truck charging infrastructure—efforts that will inevitably require collaborative actions from fleet operators; truck manufacturers; turnkey engineering, procurement, and construction (EPC) firms; finance providers; and energy and infrastructure players.",gpt-4o-mini,dt03,"1. Europe needs many charging points for electric trucks.  
+2. By 2030, there should be over 300,000 charging points in Europe.  
+3. Right now, there are only about 10,000 charging points in Europe.  
+4. Building the charging network will cost around €40 billion by 2040.  
+5. Until 2030, about €7 billion needs to be invested in charging points.  
+6. Most of the money needed for charging points has not been promised yet.  
+7. The charging network will use a lot of electricity, about 20 terawatt-hours each year by 2030.  
+8. This electricity use will be about 0.5 percent of all the electricity Europe uses.  
+9. Making sure there is enough electricity will be hard because the current grid is busy.  
+10. Many different companies can help build this new charging network.  
+11. There are no big companies already in charge of electric truck charging, so there is room for new businesses.  
+12. Many groups, like truck makers and energy providers, will need to work together to build the charging network.  ","1. The number of electric trucks on the road is projected to rise dramatically in the coming years.
+4. Many businesses are looking to invest in electric trucks as part of their sustainability initiatives.
+7. The lack of charging points may hinder the adoption of electric trucks in various industries.
+10. There is a growing recognition of the environmental benefits of transitioning to electric trucks."

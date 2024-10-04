@@ -1,0 +1,4 @@
+doc_id,q_id,is_confusing,question,LLM_r,response,confusion,defusion,is_defused
+science_20.json,4,yes,How did the individual contract the bird flu virus?,gpt-3.5,The individual in Missouri who developed the bird flu infection had no known contact with potential animal carriers of the disease.,"Yes
+
+The confusing part in the question is that it assumes the individual contracted the bird flu virus, although the document mentions that the source of the infection is still a mystery.",No,no

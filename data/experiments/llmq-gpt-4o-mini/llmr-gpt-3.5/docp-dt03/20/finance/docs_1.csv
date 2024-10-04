@@ -1,0 +1,465 @@
+doc_id,source,document,LLM_q,doc_prompt,reduce_doc
+finance_1.json,https://www.investopedia.com/arm-added-to-the-phlx-semiconductor-sector-index-8716031,"Arm Added To the PHLX Semiconductor Sector Index Key Takeaways Arm Holdings has been added to the PHLX Semiconductor Sector Index.
+
+Arm ADRs have jumped some 150% in just over a year as a publicly traded company.
+
+CEO Rene Haas said the decision by the index underscored his firm's rapid growth.
+
+High-flying Arm Holdings (ARM) on Friday announced that it has been added to the PHLX Semiconductor Sector Index (SOX), effective today.
+
+American depositary receipts (ADRs) of the chip and software design firm have soared about 150% since it began trading on the Nasdaq last September, fueled by demand for artificial intelligence (AI) products.
+
+Chief Executive Officer (CEO) Rene Haas said that in just one year as a public company, ""Arm has continuously reinforced its position as the foundational compute platform across every technology touchpoint."" Haas added that being added to the SOX index ""underscores the rapid growth our company has seen as we continue to diversify our solutions and scale across multiple markets.""
+
+Analysts Bullish on Arm
+
+Last week, Morgan Stanley made Arm ""Our New Top Pick,"" with the analysts calling it ""an important part to the shift in edge AI,"" which is the use of AI data closer to its source, rather than centrally located in a cloud computing facility or data center."" They pointed out how Arm’s architecture was being used in the Apple's (AAPL) A18 processor inside the new iPhone 16.
+
+Also last week, Raymond James analyst Srini Pajjuri initiated coverage on Arm with an ""overweight"" rating and price target of $160. Pajjuri also mentioned the importance of Arm's connection to the iPhone 16, and added that the company was ""well-positioned to benefit from rapid growth of GenAI in the cloud and at the edge.""
+
+Arm ADRs slipped 1% to $138.41 in late-afternoon trading Friday but are up about 85% this year.
+
+",gpt-4o-mini,dt03,"1. Arm Holdings has been added to the PHLX Semiconductor Sector Index.  
+2. Arm's stock prices have gone up by 150% in just over a year.  
+3. The CEO of Arm, Rene Haas, says the company is growing quickly.  
+4. The addition to the index became effective today.  
+5. Arm started trading on the Nasdaq last September.  
+6. There is a high demand for products that use artificial intelligence (AI).  
+7. Arm is seen as an important part of new technology for edge AI.  
+8. Analysts from Morgan Stanley think Arm is a top choice for investment.  
+9. Arm's technology is used in the new iPhone 16.  
+10. Another analyst gave Arm a high rating and a price target of $160.  
+11. Arm's stock slipped by 1% to $138.41 recently.  
+12. Arm's stock is still up about 85% this year.  "
+finance_2.json,https://www.investopedia.com/novo-nordisk-sinks-on-obesity-drug-study-disappointing-results-8716070,"Novo Nordisk Sinks on Obesity Drug Study's Disappointing Results Key Takeaways Novo Nordisk's U.S.-listed shares lost ground Friday after a Phase 2a trial of the pharmaceutical firm’s latest obesity treatment showed less effectiveness in higher doses. Based on the results, Novo Nordisk said it would be initiating a larger Phase 2b study next year. Novo Nordisk shares were down over 5% in intraday trading Friday, though even with Friday's losses, they've gained more than 22% since the start of the year. Novo Nordisk's (NVO) U.S.-listed shares lost ground Friday after a study of the pharmaceutical firm’s latest obesity treatment showed less effectiveness in higher doses. The company said a Phase 2a trial of the drug monlunabant found patients with a baseline weight of 110.1 kilograms (242.7 pounds) taking 10 milligrams once a day for 16 weeks achieved a drop of 7.1 kilograms (15.7 pounds), versus 0.7 kilograms (1.5 pounds) for those given a placebo. However, increasing the dosage produced “limited additional weight loss.”
+
+Novo Nordisk also reported mild to moderate neuropsychiatric side effects, primarily anxiety, irritability, and sleep disturbances, “were more frequent and dose dependent with monlunabant compared to placebo.”
+
+Novo Nordisk Plans Larger Study Next Year
+
+Based on the results, Novo Nordisk said it would be initiating a larger Phase 2b study next year “to further investigate dosing and the safety profile of monlunabant.”
+
+The company is a leader in the weight-loss medicine category, with the booming popularity of its Wegovy and Ozempic injectables. However, it has received criticism over the high price of the drugs, and a Novo Nordisk executive reportedly said earlier this week that Ozempic is “very likely” to be targeted by the U.S. government for a price cut for Medicare recipients.",gpt-4o-mini,dt03,"1. Novo Nordisk is a company that makes medicines for obesity.  
+2. Their new obesity drug had a study that did not go well.  
+3. The study showed that higher doses of the drug did not work better.  
+4. Novo Nordisk will start a bigger study next year to learn more about the drug.  
+5. Shares of Novo Nordisk went down by over 5% after the study results.  
+6. Despite the drop, their shares have grown more than 22% this year.  
+7. In the study, patients lost an average of 7.1 kilograms (15.7 pounds) with the drug.  
+8. Patients who did not get the drug only lost 0.7 kilograms (1.5 pounds).  
+9. Taking more of the drug did not help people lose more weight.  
+10. Some patients had side effects like anxiety and trouble sleeping.  
+11. Novo Nordisk is known for its popular weight-loss drugs, Wegovy and Ozempic.  
+12. There are concerns about the high prices of these medicines.  "
+finance_3.json,https://www.investopedia.com/lennar-stock-drops-investors-homebuilder-latest-outlook-8715866,"Lennar Stock Drops as Investors Don't Like the Homebuilder's Latest Outlook Key Takeaways Lennar Corporation beat expectations on the top and bottom lines with its fiscal third-quarter results.
+
+The homebuilder guided investors toward no quarter-over-quarter growth for its gross margin on home sales.
+
+The stock, which rose Thursday following the Fed's rate cut, gave back some of those gains today.
+
+Lennar (LEN) shares dropped Friday despite stronger-than-expected quarterly results as the homebuilder's guidance left investors uninspired.
+
+The company said it expects its fiscal fourth-quarter gross margin on home sales to hold flat quarter-over-quarter at 22.5%, below the analyst consensus from Visible Alpha. It expects between 19,000 and 19,300 new home orders and an average sales price of $425,000, in line with Street estimates.
+
+Lennar beat expectations for the third quarter ended August 31, posting revenue that grew 9% year-over-year to $9.4 billion. Earnings per diluted share rose $4.26, while new orders improved 5%.
+
+CEO Stuart Miller pointed to an improving environment for homebuilders. Several homebuilder shares rose Thursday, climbing following the Federal Reserve’s decision to cut rates, which is expected to lead to lower mortgage rates.
+
+""We are pleased to report another solid quarter backed by an economic environment that remains very constructive for homebuilders,” Miller said. “Employment was strong, housing supply remained chronically short due to production deficits of over a decade, and demand was solid driven by strong household formation.”
+
+Shares of Lennar dropped 4% in recent Friday trading. KB Home (KBH), which reports earnings on Tuesday, saw shares slide more than 1%, compared to a 0.2% decline in the S&P 500.",gpt-4o-mini,dt03,"1. Lennar Corporation makes homes and reported good results for its third quarter.  
+2. The company did better than expected with its sales and profits.  
+3. Lennar's stock price went down even after good news.  
+4. Investors were not happy with Lennar's future plans.  
+5. Lennar expects no change in profit from home sales for the next quarter.  
+6. The company thinks it will have about 19,000 to 19,300 new home orders soon.  
+7. The average price for a new home from Lennar is expected to be $425,000.  
+8. Lennar's revenue grew by 9% compared to last year, reaching $9.4 billion.  
+9. The earnings for each share of Lennar rose to $4.26.  
+10. Homebuilding is improving, according to Lennar's CEO.  
+11. Many homebuilder stocks went up after the Federal Reserve cut interest rates.  
+12. Lennar's stock dropped by 4% in recent trading."
+finance_4.json,https://www.investopedia.com/top-stock-movers-now-fedex-nike-constellation-energy-and-more-8715914,"Top Stock Movers Now: FedEx, Nike, Constellation Energy, and More Key Takeaways The S&P 500 and Nasdaq lost ground at midday Friday after rallying to record highs Thursday in the wake of the Federal Reserve's rate cut.
+
+FedEx shares fell after the package delivery firm missed profit and sales estimates and cut its outlook.
+
+Constellation Energy shares hit a record high on a deal with Microsoft to provide power to the software firm from the restarted Three Mile Island nuclear plant.
+
+The S&P 500 and Nasdaq lost ground at midday Friday after rallying to record highs Thursday in the wake of the Federal Reserve's rate cut. The Dow was little changed and slightly higher.
+
+FedEx (FDX) shares cratered after the package delivery firm missed profit and sales estimates and cut its guidance on falling demand.
+
+Shares of Lennar (LEN) fell as the homebuilder’s current-quarter outlook for gross margin on home sales was below forecasts.
+
+Trump Media & Technology Group (DJT) shares dropped as investors digested the possibility former President Donald Trump or other company insiders and investors could begin selling shares following the expiration of lock-up agreements.
+
+Constellation Energy (CEG) shares hit an all-time high after the utility announced it would restart the Three Mile Island Unit 1 nuclear plant to provide power for Microsoft’s (MSFT) data centers. The news boosted shares of other electricity providers, including Vistra (VST) and NRG Energy (NRG).
+
+Shares of Nike (NKE) gained after the athletic shoe and clothing giant said former executive Elliott Hill, who spent 32 years at the firm, would replace John Donahoe as CEO.
+
+Oil futures declined and gold prices rose. The yield on the 10-year Treasury note was little changed. The U.S. dollar was up on the euro and yen, but lost ground to the pound. Most major cryptocurrencies traded higher.
+
+
+
+TradingView",gpt-4o-mini,dt03,"1. The S&P 500 and Nasdaq went down after going up to high points on Thursday.  
+2. FedEx lost money and did not sell as much as expected, so its stock went down.  
+3. Constellation Energy made its stock price go up after a deal with Microsoft.  
+4. The Dow Jones stayed mostly the same and was a little higher.  
+5. FedEx's stock dropped a lot because it expected to sell even less in the future.  
+6. Lennar's stock fell because it expected to make less money from selling homes.  
+7. Shares of Trump Media & Technology Group went down as people worried about insiders selling shares.  
+8. Constellation Energy's stock reached a high point because it will restart a nuclear plant for Microsoft.  
+9. Other electricity companies like Vistra and NRG Energy also saw their stock prices go up.  
+10. Nike's stock went up because they have a new CEO, Elliott Hill.  
+11. Oil prices went down while gold prices went up.  
+12. Most cryptocurrencies were trading higher.  "
+finance_5.json,https://www.investopedia.com/wall-street-welcomes-new-nike-ceo-elliott-hill-stock-rises-8715838,"Nike Stock Climbs as Wall Street Analysts Welcome a CEO Change Key Takeaways Nike's hard-hit shares topped the Dow's leaderboard Friday as Wall Street analysts largely welcomed the company's appointment of longtime executive Elliott Hill as its new CEO. Jefferies stuck with its hold rating noting that Hill will have to handle headwinds including more competition since he left the firm four years ago. Bank of America maintained its buy rating and said Hill’s long previous tenure with Nike bodes well for its restructuring. Nike's (NKE) hard-hit shares rallied Friday, topping the Dow's advancers, as Wall Street analysts largely welcomed the company's appointment of veteran executive Elliott Hill as its new Chief Executive Officer (CEO). Hill, who had spent 32 years at the firm and retired in 2020, was last head of the company's consumer and marketplace division. He will replace John Donahoe, who departs after almost five years as CEO. Shares of Nike were up about 6% in recent trading, leaving them down roughly 20% for the year. Jefferies Notes Nike's Headwinds, Such as Rising Competition, Distribution Changes
+
+Jefferies analysts said investors cheered the news of Hill's appointment, marking a vote of confidence for the executive. But they also noted that Hill is facing challenges after his four years away, such as “rising competition and changes in distribution, brand building, and product.”
+
+Hill, who starts his new role on Oct. 14, returns to a company that has seen its stock tumble as it struggled to compete against upstarts like Hoka. In June, Nike reported disappointing fiscal fourth-quarter results and warned of changes to its outlook. Donohoe, who started at the role as the pandemic struck, had shifted a lot of Nike's sales online and away from long-time retail partners—a strategy that hurt the brand once people were shopping in person again.",gpt-4o-mini,dt03,"1. Nike has a new CEO named Elliott Hill.  
+2. Elliott Hill worked at Nike for 32 years before retiring.  
+3. He used to be in charge of Nike's consumer and marketplace division.  
+4. Hill takes over from John Donahoe, who was CEO for almost five years.  
+5. Nike's stock went up by about 6% after the CEO change.  
+6. Despite the rise, Nike's shares are still down about 20% this year.  
+7. Analysts believe Hill's long experience at Nike is good for the company.  
+8. Hill will face challenges like more competition when he starts his new job.  
+9. Some analysts think Nike needs to improve how it sells products.  
+10. Nike had a tough time selling products during the pandemic.  
+11. John Donahoe changed Nike's sales strategy to focus more on online shopping.  
+12. This change hurt Nike when people started shopping in stores again.  "
+finance_6.json,https://www.investopedia.com/biden-administration-announces-usd3-billion-in-battery-supply-chain-investments-8715780,"Biden Administration Announces $3B in Battery Supply Chain Investments Key Takeaways The Biden administration is awarding $3 billion in investments across 25 projects along the battery supply chain, the Department of Energy announced Friday.
+
+The projects will support construction and renovations of facilities to make batteries, process minerals involved in batteries, or recycle old batteries.
+
+Honeywell and lithium producer Albemarle are among the companies set to benefit.
+
+Honeywell (HON) and lithium producer Albemarle (ALB) are among 25 companies set to benefit from federal funding to support America's battery manufacturing capabilities.
+
+The Biden administration is awarding $3 billion in investments across several projects along the battery supply chain, the Department of Energy announced Friday.
+
+The effort to boost America's battery production capabilities joins other technology and energy-focused efforts from the Biden administration, such as the CHIPS Act to support semiconductor manufacturing in the U.S.
+
+Projects Expected To Create 12,000 Jobs
+
+The DOE said the 25 projects selected for funding in Friday's announcement span 14 states and are projected to create at least 12,000 jobs over the course of the construction and operation of the facilities.
+
+The efforts range from renovations or expansion of existing facilities to the construction of new plants that operate along the battery supply chain, from processing minerals to building or recycling batteries.
+
+The investment follows a first round of $1.8 billion spread across 14 projects to ""build and expand commercial-scale facilities to extract lithium, graphite, and other battery materials, and battery component manufacturing,"" the DOE said.",gpt-4o-mini,dt03,"1. The Biden administration is giving $3 billion to help make batteries in the United States.  
+2. There are 25 projects that will get money to build and fix places that make batteries.  
+3. Some of the projects will also recycle old batteries.  
+4. Companies like Honeywell and Albemarle will receive money from the government.  
+5. The $3 billion investment will help improve battery production in America.  
+6. This investment is part of other efforts to support technology and energy in the U.S.  
+7. The projects will create at least 12,000 jobs for people.  
+8. The work will happen in 14 different states across the country.  
+9. Some projects will build new battery-making factories.  
+10. Other projects will make old factories better for battery production.  
+11. This is the second round of funding for battery-related projects.  
+12. The first round of funding was $1.8 billion for other battery projects."
+finance_7.json,https://www.investopedia.com/constellation-energy-stock-jumps-three-mile-island-microsoft-8715895,"Constellation Energy Stock Jumps on Plan to Restart Three Mile Island Site With Microsoft Key Takeaways Constellation Energy will restart the Three Mile Island Unit 1 nuclear plant to provide electricity to power Microsoft's data centers. The 20-year deal is part of Microsoft's effort to reduce its carbon footprint, the software giant said. The news sent Constellation Energy shares to a record high. News that Constellation Energy (CEG) plans to bring Pennsylvania's Three Mile Island out of mothballs to provide ""clean"" energy for Microsoft (MSFT) sent Constellation's shares to an all-time high. The power utility announced a 20-year agreement with the software giant to create the Crane Clean Energy Center, which involves restarting the Three Mile Island Unit 1 that was shuttered five years ago. The adjacent Unit 2 was shut down in 1979 after a malfunction caused a partial core meltdown, which led to significant changes in the nuclear power industry. Unit 2 is separately owned and is being decommissioned, Constellation said. The agreement will have Microsoft buying electricity from Unit 1 as part of its effort to help provide carbon-free energy to its data centers on the Pennsylvania-New Jersey-Maryland power transmission system. Financial details were not disclosed. With today’s gains of about 15%, shares of Constellation Energy have more than doubled this year. Microsoft shares were recently lower as tech stocks retreated following big Thursday gains. Constellation CEO Joe Dominguez said powering key industrial operations like data centers “requires an abundance of energy that is carbon free and reliable every hour of every day, and nuclear plants are the only energy sources that can consistently deliver on that promise.”
+
+
+
+Constellation said it would spend approximately $1.6 billion, including the cost of nuclear fuel, to restart the plant, the reopening of which is scheduled for 2028.",gpt-4o-mini,dt03,"1. Constellation Energy will restart a nuclear plant called Three Mile Island Unit 1.  
+2. The restart is to help provide electricity for Microsoft’s data centers.  
+3. This plan is part of Microsoft’s effort to be more friendly to the environment.  
+4. Constellation Energy's stock prices went very high after the news.  
+5. The nuclear plant was closed for five years before this plan.  
+6. Microsoft made a 20-year deal with Constellation Energy for this project.  
+7. The nearby Unit 2 of the plant had a problem in 1979 and is being taken apart.  
+8. Microsoft will buy electricity from the restarted Unit 1.  
+9. The goal is to provide energy that does not harm the environment.  
+10. Constellation Energy plans to spend about $1.6 billion to restart the plant.  
+11. The plant is expected to reopen in 2028.  
+12. Nuclear energy is seen as a reliable source for powering data centers.  "
+finance_8.json,https://www.investopedia.com/trump-media-technology-stock-falling-djt-lock-ups-truth-social-8715810,"Trump Media & Technology's Stock Can't Stop Falling Key Takeaways Shares of Truth Social's parent company, majority owned by former President Donald Trump, extended their retreat Friday.
+
+Investors are digesting the possibility that Trump or other investors who were previously prohibited from selling shares could soon begin doing so.
+
+Trump last week said, ""I'm not going to sell my shares.""
+
+The rough week for shares of Truth Social's parent company continued Friday.
+
+Shares of Trump Media & Technology (DJT), the company majority-owned by former President Donald Trump, were recently down more than 3%, trading around $14.25 per share after finishing last week near $18.
+
+Lock-Up Agreements Expired
+
+The stock is falling as investors digest the possibility that Trump or other company insiders and investors could begin selling shares following the expiration of lock-up agreements that prohibited them from doing so. Trump in an interview last week said, ""I'm not going to sell my shares.""
+
+Selling by major shareholders would likely exert further downward pressure on a stock that earlier this year changed hands at around $70, soaring shortly after Truth Social's then-parent merged with a blank-check company.
+
+The expiration of the lock-up agreements could also ""facilitate increased short selling in the stock,"" according to a Thursday note from S3 Partners.
+
+Trump Media was as of Thursday the worst-performing stock in the Russell 1000 since Aug. 5, according to Bespoke Investment Group. The index, which represents the largest 1,000 U.S. companies by market capitalization, has broadly risen during that time.
+
+",gpt-4o-mini,dt03,"1. Trump Media & Technology is the company that owns Truth Social.  
+2. Former President Donald Trump owns most of Trump Media & Technology.  
+3. The company's stock price has been going down.  
+4. Last week, Trump's stock was about $18, but now it is around $14.25.  
+5. Some people think Trump or other investors might start selling their shares soon.  
+6. Trump said he will not sell his shares.  
+7. There were rules that stopped some people from selling their shares, and those rules are now gone.  
+8. If many people sell their shares, it could make the stock price go down even more.  
+9. Earlier this year, the stock price was about $70.  
+10. The stock of Trump Media is the worst performer in the Russell 1000 index since August 5.  
+11. The Russell 1000 index includes the biggest 1,000 companies in the U.S.  
+12. Most other companies in the Russell 1000 have had stock prices that went up during the same time.  "
+finance_9.json,https://www.investopedia.com/tech-stocks-pull-back-friday-fed-rally-magnificent-seven-8715869,"Tech Stocks Pull Back Friday, Hitting the Brakes on Fed-Fueled Rally Key Takeaways Tech stocks pulled back in early trading Friday after Thursday’s rally helped propel major indexes to new highs in the wake of the Federal Reserve’s supersized rate cut. Some analysts suggested this week’s rate cut could set up tech stocks for gains heading into the end of this year and into next year. While the Fed cautioned against assuming more jumbo cuts lie ahead, markets are pricing in expectations the central bank will continue aggressively cutting rates this year. Tech stocks pulled back in early trading Friday, hitting the brakes on the market’s rally in the wake of the Federal Reserve’s supersized rate cut this week. The S&P 500 was down about 0.4% Friday after hitting record highs Thursday, with the energy and industrials sectors leading broad-based declines and its tech sector down about 0.6%. The tech-heavy Nasdaq fell 0.6%. Semiconductor Stocks Lead Tech Declines
+
+Semiconductor stocks including Onsemi (ON), ASML (ASML), and NXP Semiconductors (NXPI), were among the stocks leading losses on the major indexes, pulling the PHLX Semiconductor Index down 2%. The Magnificent 7 stocks were mixed. AI darling Nvidia (NVDA), Amazon (AMZN), Microsoft (MSFT), and Tesla (TSLA) lost ground, while Meta Platforms (META) and Alphabet (GOOGL) were slightly higher. Apple (AAPL) advanced as its iPhone 16 hit stores. Some Analysts Say Lower Rates Could Lead to Tech Gains
+
+Some analysts have suggested this week’s cut could set the stage for tech stocks to gain over the last few months of the year and into next year, with Wedbush analysts writing yesterday that “the green light is back on for the tech growth trade.”
+
+While the Fed cautioned this week against assuming more jumbo cuts lie ahead, markets are largely expecting the central bank to continue aggressively cutting rates this year, according to CME Group's FedWatch tool based on fed funds market data.",gpt-4o-mini,dt03,"1. Tech stocks went down on Friday after going up on Thursday.  
+2. The Federal Reserve made a big cut to interest rates this week.  
+3. Some experts think the rate cut could help tech stocks gain value soon.  
+4. The S&P 500 index fell by about 0.4% on Friday.  
+5. The tech sector was down by about 0.6% on Friday.  
+6. The Nasdaq index, which is full of tech stocks, also dropped by 0.6%.  
+7. Semiconductor stocks like Onsemi and ASML had big losses.  
+8. The PHLX Semiconductor Index went down by 2%.  
+9. Nvidia and Amazon lost value on Friday.  
+10. Apple’s stock went up because its new iPhone 16 was released.  
+11. Some analysts believe lower interest rates can help tech stocks grow.  
+12. Markets expect the Federal Reserve to keep cutting rates this year.  "
+finance_10.json,https://www.investopedia.com/fedex-stock-tanks-amid-challenging-demand-environment-8715798,"FedEx Stock Tanks Amid 'Challenging' Demand Environment Key Takeaways FedEx shares plunged 15% Friday, a day after the package delivery giant missed quarterly estimates and reduced its forecast as it faced what CEO Rajesh Subramaniam called a ""challenging Q1 demand environment,"" especially in the U.S.
+
+The company pointed to weakness in the industrial economy impacting business-to-business revenue.
+
+FedEx also said it faced a decline in priority shipping volume and growth.
+
+FedEx (FDX) shares plunged 15% Friday, a day after the package delivery giant missed quarterly estimates and reduced its forecast as it faced what Chief Executive Officer (CEO) Rajesh Subramaniam called a ""challenging Q1 demand environment,"" especially in the U.S.
+
+Subramaniam told analysts that weakness in the industrial economy dragged down business-to-business (B2B) volumes. Chief Customer Officer Brie Carere added that the drop in B2B sales led to a 3% volume decline in U.S. domestic express services.
+
+CFO Says 'Soft Revenue Trends' Affected Results
+
+Chief Financial Officer (CFO) John Dietrich noted that the results ""were negatively affected by soft revenue trends, with a global decline in priority volume and growth in deferred volume.""
+
+Deitrich said in light of the first-quarter performance, FedEx was cutting the top end of its full-year adjusted earnings per share (EPS) outlook to $21 from $22. FedEx also sees revenue growth to be in a low-single-digit percentage, down from its earlier forecast of a low- to mid-single-digit percentage.
+
+Jefferies Lowers Price Target
+
+Following the report, Jefferies reduced its price target to $275 from $300. The analysts argued that with the current quarter expected to be pressured and its first-half EPS estimates down 20%, ""we do not think the company can achieve the low end of its EPS guide.""
+
+Shares of FedEx plunged more than 15% in late-morning trading Friday to $254.30, less than 1% above where they began the year.
+
+",gpt-4o-mini,dt03,"1. FedEx's stock dropped 15% on Friday.  
+2. The company did not meet its earnings goals for the last quarter.  
+3. FedEx lowered its earnings forecast for the year.  
+4. CEO Rajesh Subramaniam said demand is challenging, especially in the U.S.  
+5. FedEx is seeing weak business-to-business sales.  
+6. There was a decline in priority shipping volume at FedEx.  
+7. CFO John Dietrich mentioned that revenue trends are soft.  
+8. FedEx changed its earnings outlook to $21 per share from $22.  
+9. The company expects low revenue growth this year.  
+10. Jefferies lowered FedEx's price target to $275 from $300.  
+11. Analysts think FedEx will struggle to meet its earnings goals.  
+12. FedEx's shares are now just above where they started the year."
+finance_11.json,https://www.investopedia.com/will-jumbo-rate-cut-lead-to-recession-its-happened-before-fed-8714314,"Will a Jumbo Interest Rate Cut Be Followed by a Recession? It's Happened Before Key Takeaways The Federal Reserve began what will likely be a campaign of interest rate cuts Wednesday by cutting its influential federal funds rate by half a percentage point. The central bank has made similar moves in the past, sometimes preceding a recession. However, economists aren’t predicting a recession this time around. When the Federal Reserve starts a rate cut cycle with a jumbo-sized slash in the past, it hasn’t always worked out well for the economy. After holding its key interest rates at decades-high levels in a bid to bring down inflation, the Federal Reserve made its first rate cut in four years on Wednesday. While the Fed generally reduces the federal funds rate a quarter-of-a-percentage point at a time, the central bank was more aggressive this week, reducing rates by 50 basis points. In some recent cases, super-sized rate cuts have come before a recession. The Fed, and some economists, think there are reasons that won't happen this time. Has This Happened In the Past? This isn't the first time the Fed has taken a bigger swing at rates to open a rate-cut cycle. In 2001 and 2007, the Fed faced similar situations. After keeping interest rates elevated for an extended period, central bankers cut them quickly by 50 basis points (bp). In these cases, the sharp cuts to interest rates weren’t enough to stave off a recession. “On all the recent occasions when the Fed has accelerated up to 50bp cuts, bad things have then happened,” wrote a team of Deutsche Bank analysts led by research strategist Jim Reid this week.",gpt-4o-mini,dt03,"1. The Federal Reserve cut its interest rate by half a percentage point.  
+2. This is the first rate cut in four years.  
+3. The Federal Reserve usually cuts rates by a smaller amount, like a quarter of a percentage point.  
+4. Sometimes big interest rate cuts have come before a recession.  
+5. Economists do not think a recession will happen this time.  
+6. The Federal Reserve had kept interest rates very high to lower inflation.  
+7. In the past, big cuts in 2001 and 2007 did not stop recessions from happening.  
+8. When the Federal Reserve cuts rates quickly, it has often led to bad outcomes.  
+9. The recent cut was more aggressive than usual.  
+10. The central bank is now starting a campaign to cut interest rates.  
+11. Some experts believe that this time will be different.  
+12. The Federal Reserve is trying to help the economy by lowering interest rates."
+finance_12.json,https://www.investopedia.com/apple-s-iphone-16-goes-on-sale-today-without-latest-ai-features-8715789,"Apple's iPhone 16 Goes on Sale Today Without Latest AI Features KEY TAKEAWAYS Apple's latest smartphone, the iPhone 16, will be available in stores starting today, following disappointing Wall Street feedback from pre-order data.
+
+Potentially weighing on the models' popularity is that the tech giant's AI model, Apple Intelligence, won't be available immediately but will come later as a free software update.
+
+In the lineup for sales at almost 60 countries globally are the standard the 16 and 16 Plus models, as well as the higher-end Pro and Pro Max.
+
+Apple's (AAPL) latest smartphone, the iPhone 16, will be available in stores starting today, following disappointing Wall Street feedback from pre-order data.
+
+Potentially weighing on the models' popularity is that the tech giant's AI model, Apple Intelligence, won't be available immediately but will come later as a free software update.
+
+Further, aside from a ""camera control"" button that will let users take pictures or change settings while keeping a hand on the side of the phone, the new model ""has only modest upgrades from prior models,"" Bloomberg reported.
+
+Latest iPhone on Sale in Almost 60 Countries
+
+In the lineup for sales at almost 60 countries globally are the standard the 16 and 16 Plus models, as well as the higher-end Pro and Pro Max.
+
+Pre-orders began last week, with early indications showing the various models had shorter average delivery times across a number of key markets—suggesting a combination of lower sales volume and higher supply.
+
+Apple shares rose less than 1% an hour after the opening bell Friday. They have gained almost 20% year-to-date.",gpt-4o-mini,dt03,"1. The iPhone 16 is on sale today.  
+2. The iPhone 16 does not have the newest AI features right now.  
+3. Apple will add the AI features later for free.  
+4. The iPhone 16 comes in four models: standard, Plus, Pro, and Pro Max.  
+5. The iPhone 16 is available in almost 60 countries.  
+6. Some people were not excited about the iPhone 16 before it went on sale.  
+7. The iPhone 16 has a new button for taking pictures easily.  
+8. The new iPhone has only small improvements compared to older models.  
+9. Pre-orders for the iPhone 16 started last week.  
+10. The delivery times for the iPhone 16 are shorter in some places.  
+11. This might mean fewer people are buying the iPhone 16.  
+12. Apple’s stock price went up a little after the iPhone 16 was released.  "
+finance_13.json,https://www.investopedia.com/warner-music-expands-layoffs-in-restructuring-push-8715767,"Warner Music Expands Layoffs in Restructuring Push KEY TAKEAWAYS Warner Music Group said it is going to increase its planned layoffs as part of an updated restructuring plan aimed at freeing up cash to boost its core music operations.
+
+The entertainment company said it would reduce its staff by about 750 employees or 13% of its total headcount, from original plans to lay off 600 people or 10% of its workforce.
+
+Warner Music shares edged lower in early trading Friday and have lost about 15% of their value so far this year.
+
+Warner Music Group (WMG) said it is going to expand its planned layoffs as part of an updated restructuring plan aimed at freeing up cash to boost its core music operations.
+
+The entertainment company said it would reduce its staffing by about 750 employees, or 13% of its total headcount, from original plans to lay off 600 people, or 10% of its workforce.
+
+Most of the job cuts at the music label behind Dua Lipa and Coldplay will be in the company's media properties, including in-house advertising sales, as well as support functions.
+
+Warner Music Expects Pre-Tax Cost Savings of About $260M
+
+Warner Music said it now expects pre-tax cost savings of about $260 million, most of which will be achieved by the end of fiscal 2025, up from its earlier estimate of $200 million in savings.
+
+
+
+Warner Music shares edged 0.8% lower in early trading Friday and have lost about 15% of their value so far this year.",gpt-4o-mini,dt03,"1. Warner Music Group is going to lay off more workers.  
+2. They are cutting about 750 jobs.  
+3. This is 13% of all their workers.  
+4. They had planned to lay off 600 people before.  
+5. Warner Music's stock price has gone down by 15% this year.  
+6. Most job cuts will happen in advertising and support areas.  
+7. The company helps famous singers like Dua Lipa and Coldplay.  
+8. Warner Music expects to save $260 million.  
+9. They hope to save this money by the end of 2025.  
+10. Their earlier plan was to save $200 million.  
+11. Warner Music shares dropped 0.8% in early trading on Friday.  
+12. The layoffs are part of a plan to make the company better."
+finance_14.json,https://www.investopedia.com/watch-these-nike-price-levels-as-stock-jumps-after-company-appoints-new-ceo-8715751,"Watch These Nike Price Levels as Stock Jumps After Company Appoints New CEO Key Takeaways Nike shares traded sharply higher in pre-market trading Friday after the world’s largest athletic apparel and equipment company announced Elliott Hill will replace John Donahoe as CEO amid a leadership shakeup aimed at reviving sales and competing more effectively with rival brands. Buyers have successfully defended a retracement to the neckline of a triple bottom, a chart pattern that typically forms after a prolonged downtrend and signals a potential price reversal. Investors can watch key overhead levels on Nike's chart at $85. $89, $96, and $104. Nike (NKE) shares jumped nearly 8% in pre-market trading Friday after the world’s largest athletic apparel and equipment company announced Elliott Hill will replace John Donahoe as CEO amid a leadership shakeup aimed at reviving sales and competing more effectively with rival brands. Shares in the sneaker maker have tumbled around 25% since the start of the year through Thursday's close, with most of those losses coming in June after the company disappointed investors with weak fiscal fourth-quarter results and a soft sales outlook as it grapples with a slowdown in consumer demand and challenging macroeconomic conditions in China. Below, we’ll take a closer look at the technicals on Nike’s chart and identify price levels to watch out for. Buyers Defend Triple Bottom Neckline
+
+Since gapping to a multi-year low in late June, Nike shares carved out a triple bottom, a chart pattern that typically forms after a prolonged downtrend and signals a potential price reversal. As each trough in the formation reached a slightly lower low, the relative strength index (RSI) made a comparatively higher low to create a bullish divergence, indicating strengthening price momentum.",gpt-4o-mini,dt03,"1. Nike has a new CEO named Elliott Hill.  
+2. Elliott Hill is replacing the old CEO, John Donahoe.  
+3. Nike's stock price went up by almost 8% after the announcement.  
+4. Nike is trying to sell more and compete better with other brands.  
+5. The company's stock price has dropped about 25% since the start of the year.  
+6. Most of the stock price drop happened in June.  
+7. Nike did not do well in its last fiscal quarter.  
+8. There is less demand for Nike products right now.  
+9. Nike is facing tough economic conditions in China.  
+10. Buyers have helped keep the price steady after it dropped.  
+11. Nike's stock has a pattern called a ""triple bottom"" which might mean the price could go up.  
+12. There are important price levels to watch for Nike's stock at $85, $89, $96, and $104.  "
+finance_15.json,https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-september-20-2024-8715594,"5 Things to Know Before the Stock Market Opens U.S. stock futures are falling as investors brace for the ""triple witching"" event today; Nike (NKE) shares are rallying in premarket trading after the sports apparel giant said it was replacing Chief Executive Officer (CEO) John Donahoe with a former executive; FedEx (FDX) shares are sinking after the shipping giant slashed its full-year outlook; Apple's (AAPL) iPhone 16 will be sold in stores globally today—without artificial intelligence (AI) features; and Warner Music Group (WMG) is now planning on a greater number of layoffs in an updated restructuring plan. Here's what investors need to know today. 1. US Stock Futures Mostly Edging Lower as 'Triple Witching' Looms
+
+U.S. stock futures are mostly edging lower as investors brace for the ""triple witching"" event today, a day after shares rallied following the Federal Reserve's jumbo-sized interest-rate cut. The S&P 500 and Dow Jones Industrial Average closed at record highs yesterday, as investors bet the central bank's aims to manufacture a soft landing amid cooling inflation will lead to more aggressive rate cuts. ""Triple witching,"" or the simultaneous expiration of stock options, index options, and index futures contracts, often results in greater trading volume and volatility. 2. Nike Stock Jumps as It Replaces CEO With Veteran Executive
+
+Nike (NKE) shares are jumping 5% in premarket trading after the global shoe and athletic apparel company named veteran executive Elliott Hill its CEO effective Oct. 14, replacing the retiring John Donahoe. Hill, who had retired in 2020, returns to a company that in June reported disappointing fiscal fourth-quarter results and warned of changes to its outlook.",gpt-4o-mini,dt03,"1. U.S. stock futures are going down before the market opens.  
+2. Today is a special day called ""triple witching.""  
+3. Nike is changing its CEO from John Donahoe to Elliott Hill.  
+4. Nike's stock went up by 5% in premarket trading.  
+5. Elliott Hill will start as Nike's CEO on October 14.  
+6. FedEx's stock is going down because it lowered its yearly outlook.  
+7. Apple is selling the iPhone 16 in stores today.  
+8. The iPhone 16 does not have artificial intelligence features.  
+9. The S&P 500 and Dow Jones closed at record highs yesterday.  
+10. Investors think the Federal Reserve will lower interest rates more.  
+11. ""Triple witching"" can cause more trading and price changes.  
+12. Warner Music Group is planning more job cuts in a new plan."
+finance_16.json,https://www.investopedia.com/watch-these-key-dow-jones-industrial-average-levels-after-new-record-high-8715698,"Watch These Key Levels As The Dow Sets New Record High On Rate Cut Optimism Key Takeaways The Dow Jones Industrial Average will likely remain in focus on Friday after setting a new record high today above 42,000, gaining momentum after the Fed's big half-point rate cut yesterday. The Index has moved higher after retesting the top trendline of an ascending triangle. A measured move, which uses the distance between the ascending triangle’s two trendlines near their widest points, projects an upside price target of 44,700. Investors should watch important pullback levels on the Dow's chart at 39,900, 39,200, and 37,800. Investors will likely watch how The Dow Jones Industrial Average (DJI) trades on Friday after the index posted a new record high today, closing above 42,000. Like, its broader counterpart the S&P 500 (SPX), which also registered an all-time high (ATH) on Thursday, the 30-stock index continues to gain momentum following yesterday’s big half-point rate cut by the Federal Reserve. After closing slighting lower on Wednesday in the aftermath of the Fed decision, the index bounced back sharply today. That may have be a result of market participants betting on the Fed remaining aggressive with interest rate cuts, potentially slashing the benchmark federal funds rate by another 75 basis points, as the central bank aims to manufacture a soft landing for the economy after a period of persistently high inflation. Below, we’ll take a closer look at the Dow’s chart and point out important technical levels to watch out for. Ascending Triangle’s Successful Retest
+
+An ascending triangle formed on the Dow’s chart between July and September before the index staged a breakout above the pattern’s top trendline on Monday.",gpt-4o-mini,dt03,"1. The Dow Jones Industrial Average went above 42,000 and set a new record high.  
+2. The Dow gained momentum after the Federal Reserve cut interest rates by half a point.  
+3. The Dow's chart shows it created an ascending triangle pattern.  
+4. The distance between the triangle's lines suggests the Dow could go up to 44,700.  
+5. Important levels to watch on the Dow's chart are 39,900, 39,200, and 37,800.  
+6. The Dow closed above 42,000 after reaching a new record high.  
+7. The S&P 500 also reached an all-time high recently.  
+8. The Dow bounced back sharply after a small decrease on Wednesday.  
+9. Investors think the Federal Reserve might cut rates again by 75 basis points.  
+10. The Federal Reserve wants to help the economy after high inflation.  
+11. The Dow had an ascending triangle pattern from July to September.  
+12. The Dow broke out above the triangle's top line on Monday."
+finance_17.json,https://www.investopedia.com/nike-stock-rises-after-elliott-hill-named-ceo-8715586,"Nike Stock Rises After Elliott Hill Named CEO Key Takeaways Nike shares surged in extended trading Thursday after the global shoe and athletic apparel company named Elliott Hill its CEO, replacing John Donahoe.
+
+Hill will return to Nike after retiring in 2020, which at the time marked the end of a long career at the company.
+
+It's been a tough year for Nike, and Hill will have the task of reviving a stock that lost about a quarter of its value from the start of 2024 through Thursday's close.
+
+
+
+Nike (NKE) shares surged in extended trading Thursday after the global shoe and athletic apparel company named Elliott Hill its CEO, replacing John Donahoe.
+
+Nike's shares were up about 9% in late trading. Hill will have the task of reviving a stock that, through Thursday's close, lost about a quarter of its value from the start of the year. The company in June reported disappointing fiscal fourth-quarter results and warned of changes to its outlook, worrying investors.
+
+Hill returns to Nike after retiring in 2020, which at the time marked the end of a long career at the company known for its ""swoosh"" logo and the ""Just Do It"" tagline.
+
+""Given our needs for the future, the past performance of the business, and after conducting a thoughtful succession process, the board concluded it was clear Elliott’s global expertise, leadership style, and deep understanding of our industry and partners, paired with his passion for sport, our brands, products, consumers, athletes, and employees, make him the right person to lead Nike’s next stage of growth,"" Nike Executive Chair Mark Parker said in a statement.
+
+Nike has an investor day scheduled for Nov. 19.
+
+Donahoe will officially leave his role in mid-October, staying on in an advisory role through the end of January, the company said.
+
+",gpt-4o-mini,dt03,"1. Nike has a new CEO named Elliott Hill.  
+2. Elliott Hill is replacing the old CEO, John Donahoe.  
+3. Hill used to work at Nike before he retired in 2020.  
+4. Nike's stock price went up by about 9% after the news of Hill being CEO.  
+5. This year, Nike's stock lost about a quarter of its value.  
+6. In June, Nike shared bad news about their money and plans.  
+7. Hill is expected to help make Nike's stock better again.  
+8. The company is known for its ""swoosh"" logo and ""Just Do It"" slogan.  
+9. Nike's board of directors believes Hill is the right choice for CEO.  
+10. There is an investor day for Nike planned on November 19.  
+11. Donahoe will leave his CEO job in mid-October.  
+12. Donahoe will still help Nike in an advisory role until the end of January.  "
+finance_18.json,https://www.investopedia.com/fedex-stock-falls-after-shipper-slashes-full-year-guidance-8715595,"FedEx Stock Falls After Shipper Slashes Full-Year Outlook Key Takeaways FedEx lowered its revenue and earnings outlook for fiscal 2025.
+
+The company's fiscal first-quarter results missed analysts' expectations on the top and bottom lines amid weaker demand for its priority shipping services.
+
+FedEx's contract with USPS is also slated to end later this month.
+
+FedEx (FDX) shares tumbled in extended trading Thursday after the company missed analysts' estimates with its fiscal first-quarter results and slashed its full-year outlook.
+
+The shipping company posted first-quarter earnings per share (EPS) of $3.21 on revenue of $21.6 billion, both of which missed analysts' expectations compiled by Visible Alpha.
+
+CEO Raj Subramaniam called the period a “challenging quarter,” hindered by higher operating expenses and weaker demand for priority shipping services.
+
+FedEx said it now anticipates year-over-year revenue growth in the low single digits, down from a low-to-mid single digit increase. Its expects EPS of between $17.90 to $18.90, down from $18.25 to $20.25. The revised range came in below the analyst consensus of $19.80.
+
+Notably, FedEx will also lose out on one source of revenue later this month, when its contract with the U.S. Postal Service (USPS) ends.
+
+Shares of FedEx tumbled over 10% to $269.85 in extended trading Thursday following the release.
+
+CORRECTION—Sept. 19, 2024: This article has been updated to reflect FedEx reported results for the fiscal first-quarter.",gpt-4o-mini,dt03,"1. FedEx lowered its money-making expectations for the year 2025.  
+2. The company did not make as much money as people thought in the first quarter.  
+3. FedEx's shipping services are not being used as much right now.  
+4. FedEx will stop working with the U.S. Postal Service soon.  
+5. FedEx's stock price dropped a lot after the company shared its news.  
+6. In the first quarter, FedEx earned $3.21 for each share it sold.  
+7. FedEx made $21.6 billion in total money, which was less than expected.  
+8. The boss of FedEx said the last quarter was very tough for the company.  
+9. FedEx thinks it will grow slowly, only a little bit this year.  
+10. The company now expects to earn between $17.90 and $18.90 per share.  
+11. This new earning guess is lower than what experts thought.  
+12. FedEx's stock price fell more than 10% after the bad news came out."
+finance_19.json,https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-pops-to-all-time-high-after-jumbo-rate-cut-8715589,"S&P 500 Gains and Losses Today: Index Pops to All-Time High After Jumbo Rate Cut Key Takeaways The S&P 500 soared 1.7% on Thursday, Sept. 19, notching a record closing high a day after the Fed opted for an aggressive interest-rate cut. Darden Restaurant shares skyrocketed after the Olive Garden parent reported improving sales trends and announced a pilot delivery partnership with Uber Eats. Shares of Deckers Outdoor lost ground following the completion of the footwear and apparel company's stock split. Major U.S. equities indexes tore higher a day after the Federal Reserve announced a half-percentage-point reduction in its benchmark interest rate. The S&P 500 jumped 1.7% on Thursday, while the Dow added 1.3%. The post-Fed gains lifted the benchmark index and its blue-chip counterpart to record-high closes. Outperformance from the tech sector after the rate-cut announcement helped the Nasdaq surge 2.5% higher. The top performance in the S&P 500 came from shares of Darden Restaurants (DRI), which soared 8.3% on Thursday. The operator of Olive Garden, LongHorn Steakhouse, and other full-service restaurant chains reported improved sales trends following a downtick in foot traffic during July. Darden also announced plans to pilot an exclusive delivery partnership between Olive Garden and Uber (UBER) in select markets. If the collaboration proves successful, the companies intend to launch the program nationwide by May 2025. Since many car buyers rely on financing to purchase a vehicle, stocks of companies in the automobile industry tend to be sensitive to interest-rate changes. The high rate environment weighed particularly on the affordability of electric vehicles (EVs), which typically come with steeper price tags than internal combustion options. Following yesterday's Fed's aggressive rate cut, Tesla (TSLA) shares jumped 7.4%.",gpt-4o-mini,dt03,"1. The S&P 500 is a big group of companies that went up a lot on September 19.  
+2. The S&P 500 went up 1.7% and set a new record high.  
+3. The Federal Reserve made interest rates lower to help the economy.  
+4. Darden Restaurants, which owns Olive Garden, had great news and their stock price went up a lot.  
+5. Darden's stock went up by 8.3% after they shared good sales news.  
+6. Darden is working with Uber Eats to deliver food from Olive Garden.  
+7. If the delivery plan works well, they want to do it everywhere by May 2025.  
+8. The Dow, another important group of companies, also went up by 1.3%.  
+9. After the interest rate cut, the tech companies did really well and the Nasdaq went up 2.5%.  
+10. Deckers Outdoor, a shoe and clothing company, lost some value after splitting their stock.  
+11. Buying cars often needs loans, so car company stocks can change when interest rates change.  
+12. Tesla's stock went up 7.4% after the interest rate was cut.  "
+finance_20.json,https://www.investopedia.com/what-stock-market-triple-witching-means-for-you-8715459,"What Friday's Triple-Witching Means For You Key Takeaways Markets were buoyant on Thursday ahead of Friday's triple-witching, which refers to the simultaneous expiration of stock options, index options, and index futures contracts. Triple-witching often results in greater trading volume and volatility, especially in the final hour of the session. The majority of long-term, buy-and-hold investors shouldn't be too worried, as heightened volatility and unexpected price swings are likely to be short-lived. Stocks rallied to record highs on Thursday ahead of one of Wall Street's scariest-sounding events, set for Friday: a triple witching. ""Triple witching"" refers to the simultaneous expiration of stock options, index options, and index futures contracts. It occurs four times a year—on the third Fridays of March, June, September, and December—and can be known to trigger sharp price movements as traders close out or extend existing positions. Friday’s edition comes at a critical moment for the stock market. The S&P 500 closed at an all-time high on Thursday as stocks rallied after the Federal Reserve on Wednesday cut interest rates by half a percentage point. It was a bumpy ride to yesterday’s rate cut, with jitters about a weakening labor market and stretched tech valuations contributing to several big sell-offs in recent months. The Cboe Volatility Index (VIX), or “fear gauge,” stood at about 16.5 on Thursday, down from spikes in early August and September but still above its 2024 average. What Triple-Witching Means for You
+
+Triple-witching days often coincide, as is the case Friday, with S&P index rebalancing, which generates additional trading volume and can contribute to volatility.",gpt-4o-mini,dt03,"1. Triple-witching happens when three types of contracts all expire at the same time.  
+2. These contracts are stock options, index options, and index futures contracts.  
+3. It happens four times a year on the third Friday of March, June, September, and December.  
+4. Triple-witching can make trading very busy and prices can change a lot.  
+5. Many long-term investors do not need to worry too much about this day.  
+6. The stock market was doing well on Thursday before the triple-witching.  
+7. The S&P 500 reached its highest point ever on Thursday.  
+8. The Federal Reserve made interest rates lower on Wednesday.  
+9. There were some worries about jobs and tech company prices before the rate cut.  
+10. The Cboe Volatility Index shows how much fear there is in the market.  
+11. On Thursday, the fear gauge was lower than before but still a bit high.  
+12. Triple-witching days often also have S&P index changes, which can add to market activity."

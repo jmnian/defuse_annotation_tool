@@ -1,0 +1,9 @@
+doc_id,q_id,is_confusing,question,LLM_r,response,confusion,defusion,is_defused
+music_11.json,4,yes,"When will tickets for ""Love on Stage"" go on sale?",gpt-3.5,"Tickets for ""Love on Stage"" will go on sale on Friday, September 13.","Yes. The question contains a confusing part as it mentions ""Love on Stage"" instead of ""All In: Comedy About Love"".",No,no
+music_12.json,8,yes,In what music scene has Haley Heynderickx been gaining traction?,gpt-3.5,Haley Heynderickx has been gaining traction in the Portland-based music scene.,"Yes
+
+The confusing part in the question is that it assumes Haley Heynderickx has been gaining traction in a specific music scene, which is not mentioned in the document. The document only focuses on her new album release and the themes of her music, but it does not specify any particular music scene where she has been gaining traction.",No,no
+music_14.json,9,yes,"What are fans anticipating following the release of ""Losing It""?",gpt-3.5,"Fans are anticipating the release of ""Losing It"" following the release of ""Waited All Night"".","Yes. The question contains a confusing part as it mentions the song ""Losing It,"" which is not mentioned or relevant in the provided document.",No,no
+music_19.json,5,yes,How does [Band Name] connect with its listeners through their music?,gpt-3.5,"Jane's Addiction connects with its listeners through their music by sharing personal experiences and emotions. The band's lyrics often reflect real-life struggles and conflicts, allowing listeners to relate to their music on a deeper level. Additionally, Jane's Addiction's music serves as a platform for self-reflection and introspection, creating a meaningful connection with their audience.","Yes
+
+The confusing part in the question is that the band name is not specified, so it is unclear which band's connection with its listeners is being asked about.",No,no

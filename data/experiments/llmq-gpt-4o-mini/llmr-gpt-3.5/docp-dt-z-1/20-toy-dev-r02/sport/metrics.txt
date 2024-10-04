@@ -1,0 +1,9 @@
+Original (non-confusing) questions:
+    Total questions = 95
+    With confusion detected = 1
+    With confusion detected and defused = 1
+ Confusing questions:
+    Total questions = 154
+    With confusion detected = 104
+    With confusion detected and defused = 41
+    With confusion detected, but not defused = 63

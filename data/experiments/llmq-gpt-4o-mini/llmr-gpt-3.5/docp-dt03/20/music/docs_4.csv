@@ -1,0 +1,877 @@
+doc_id,source,document,LLM_q,doc_prompt,reduce_doc,modify_doc,expand_doc,orig_questions
+music_1.json,https://pitchfork.com/news/indigo-de-souza-drops-surprise-new-wholesome-evil-fantasy-ep-listen,"Indigo De Souza Drops Surprise New Wholesome Evil Fantasy EP: Listen Indigo De Souza has released a surprise three-song EP, marking her Loma Vista debut. It’s called Wholesome Evil Fantasy, and its tracks are appropriately titled “Wholesome,” “Evil,” and “Fantasy.” Listen to it below.
+
+“These songs come from the spiciest, most goofy, glitter gloss place in my psyche. I wasn’t really thinking very hard when I wrote them. I was just having so much fun.” De Souza said of Wholesome Evil Fantasy EP in press materials. She continued:
+
+I am continuously inspired by the sounds and energy brought by my collaborators, Elliott Kozel and Jesse Schuster. They are always making me laugh and bringing out the silliest version of me. I would not have discovered this new space without them. Listening to these songs fills me with gratitude for the playful musical connection we have, as well as everlasting friendship. My baseline existence can be pretty heavy and complicated, but these songs made me deeply joyous the whole time I was working on them.
+
+De Souza is throwing two dance parties to celebrate the new EP. The first will occur in Los Angeles, on October 3, with the other taking place in De Souza’s hometown of Asheville, North Carolina, on October 8. The Los Angeles party will feature DJ sets by Harmony, Succubus, and Azure.fm, while WiFi Mommy, Boys_Camp, and Oragami will man the decks in Asheville. De Souza will host both events.
+
+De Souza’s latest full-length, All of This Will End, arrived last year. Revisit Pitchfork’s 2021 Rising interview “Indigo De Souza’s Ultimate Indie Rock Glow Up.”",gpt-4o-mini,dt03,"1. Indigo De Souza has a new surprise music project called Wholesome Evil Fantasy.  
+2. The project has three songs titled “Wholesome,” “Evil,” and “Fantasy.”  
+3. De Souza said she had a lot of fun while making the songs.  
+4. Her friends Elliott Kozel and Jesse Schuster helped her create the music.  
+5. De Souza feels grateful for the fun and friendship she shares with her collaborators.  
+6. She thinks the songs made her very happy while she was working on them.  
+7. De Souza is throwing two dance parties to celebrate her new music.  
+8. The first party will be in Los Angeles on October 3.  
+9. The second party will be in Asheville, North Carolina, on October 8.  
+10. Different DJs will play music at each party.  
+11. De Souza released a full album called All of This Will End last year.  
+12. She is known for her unique and playful music style.  ","1. The music project is the debut album of the artist.
+4. The artist collaborated with various musicians and producers on the project.
+7. The artist expressed excitement about celebrating the album's release with her fans.
+10. The parties are part of a promotional tour for the album's launch.","**Local Artist Unveils Debut Album with Exciting Launch Party**
+
+City, State – In a vibrant celebration of creativity and collaboration, local artist Jane Doe has officially released her debut album, ""Echoes of Tomorrow."" The album, which showcases Doe's unique sound and lyrical prowess, features contributions from a talented roster of musicians and producers, including Grammy-nominated producer John Smith and renowned guitarist Emily Brown.
+
+The release event, held at the downtown music venue, drew a lively crowd of fans eager to support Doe on this significant milestone in her career. ""I am beyond excited to share this album with everyone who has been part of my journey,"" Doe said during the festivities. ""This project is a reflection of my experiences and I can't wait for my fans to hear it.""
+
+To celebrate the launch, Doe and her collaborators are kicking off a promotional tour, which promises to bring her music to audiences across the country. The tour will feature live performances, intimate Q&A sessions, and opportunities for fans to engage with the artist directly.
+
+With ""Echoes of Tomorrow,"" Jane Doe aims to leave a lasting impression on the music scene, and with her infectious enthusiasm and dedication to her craft, there's no doubt that she will resonate deeply with her audience. Fans can look forward to an exciting journey ahead as Doe takes the stage to share her music with the world.","1. What is the title of Indigo De Souza's surprise new EP?
+2. How many tracks are included in the Wholesome Evil Fantasy EP, and what are their titles?
+3. What inspired Indigo De Souza while creating the songs for the EP?
+4. When and where are the dance parties to celebrate the new EP taking place?
+5. Who are the DJs performing at the dance parties in Los Angeles and Asheville?"
+music_2.json,https://pitchfork.com/news/7-new-albums-you-should-listen-to-now-jamie-xx-future-nubya-garcia,"7 New Albums You Should Listen to Now: Jamie xx, Future, Nubya Garcia, and More With so much good music being released all the time, it can be hard to determine what to listen to first. Every week, Pitchfork offers a run-down of significant new releases available on streaming services. This week’s batch includes new projects from Jamie xx, Future, Nubya Garcia, Bright Eyes, the Alchemist, Regional Justice Center, and Patrick Shiroishi. Subscribe to Pitchfork’s New Music Friday newsletter to get our recommendations in your inbox every week. (All releases featured here are independently selected by our editors. When you buy something through our affiliate links, however, Pitchfork earns an affiliate commission.)
+
+Jamie xx: In Waves [Young]
+
+It’s been nearly a decade since Jamie xx went solo and dropped In Colour. Now, the DJ and producer is finally releasing his sophomore solo album, In Waves. Collaborating with the likes of Robyn, Panda Bear, xx bandmates Romy and Oliver Sim, Kelsey Lu, and the Avalanches, Jamie xx set out to make a record that is “fun, joyful, and introspective all at once,” as he put it in the album announcement.
+
+Listen on Apple Music
+
+Listen on Spotify
+
+Listen on Tidal
+
+Listen on Amazon Music
+
+Listen/Buy at Bandcamp
+
+Buy at Rough Trade
+
+Future: Mixtape Pluto [Epic]",gpt-4o-mini,dt03,"1. There are many new music albums released all the time.  
+2. Pitchfork helps people find good music to listen to each week.  
+3. This week, new albums from Jamie xx, Future, and Nubya Garcia are highlighted.  
+4. Jamie xx has a new album called In Waves.  
+5. Jamie xx has not released a solo album in nearly ten years.  
+6. The album In Waves includes fun and joyful music.  
+7. Jamie xx worked with other artists like Robyn and Panda Bear on his album.  
+8. People can listen to Jamie xx's music on many platforms like Apple Music and Spotify.  
+9. Future has released a mixtape called Pluto.  
+10. There are many ways to buy or listen to music online.  
+11. Pitchfork earns money when people buy music through their links.  
+12. The document encourages people to subscribe to Pitchfork's music newsletter.","1. The music industry is constantly evolving with new trends and genres.
+4. Many artists are now embracing digital platforms to reach their audiences.
+7. The lead single from the album has topped various music charts.
+10. The album's promotional campaign included social media teasers and live performances.","**The Evolution of Music: Artists Embrace Digital Platforms to Connect with Fans**
+
+In an ever-changing landscape, the music industry continues to evolve with emerging trends and genres that captivate audiences worldwide. As technology reshapes the way music is consumed, many artists are increasingly turning to digital platforms to engage their fans and distribute their work more effectively.
+
+The latest example of this trend can be seen in the recent release of a highly anticipated album from a prominent artist. The lead single from this album has not only resonated with listeners but has also topped various music charts, solidifying the artist's position in the competitive music scene.
+
+To maximize the album's reach, the promotional campaign has adeptly utilized social media teasers, creating buzz and anticipation ahead of its launch. Live performances streamed online have further enhanced the connection between the artist and their audience, allowing fans to experience the music in real-time from the comfort of their homes.
+
+As the music industry adapts to new technologies and audience preferences, the future looks bright for artists willing to innovate and embrace these digital opportunities.","1. What are some of the new albums featured in Pitchfork's weekly roundup?
+2. Who are some of the artists collaborating with Jamie xx on his album ""In Waves""?
+3. What is the name of Jamie xx's long-awaited sophomore solo album?
+4. How does Pitchfork curate the music releases featured in their recommendations?
+5. What is the purpose of subscribing to Pitchfork’s New Music Friday newsletter?"
+music_3.json,https://pitchfork.com/news/bon-iver-announce-sable-ep-share-new-speyside-video-watch,"Bon Iver Announce SABLE, EP, Share New “S P E Y S I D E” Video: Watch As promised, Bon Iver have released the music video for the new song “S P E Y S I D E.” With it, they’ve announced that they’ll share a new EP, via Jagjaguwar, on October 18. It’s called SABLE, (with the comma as part of the title). Find the black-and-white “S P E Y S I D E” video, directed by Erinn Springer and starring Justin Vernon, below. Scroll down for the details on the SABLE, EP.
+
+Vernon wrote the three main songs of SABLE,—“Things Behind Things Behind Things,” “S P E Y S I D E,” and “Awards Season”—from 2020 to 2023, and he recorded them at his April Base studio in Wisconsin. Vernon produced the EP with Jim-E Stack. According to a press release, SABLE, is “named for near-blackness.”
+
+The SABLE, EP follows the 2019 Bon Iver album i,i. Read more about the LP in “The 50 Best Albums of 2019.” Plus, check out the new review of “S P E Y S I D E.”
+
+SABLE, EP:
+
+01 …
+
+02 Things Behind Things Behind Things
+
+03 S P E Y S I D E
+
+04 Awards Season",gpt-4o-mini,dt03,"1. Bon Iver has a new song called “S P E Y S I D E.”  
+2. They made a video for the song “S P E Y S I D E.”  
+3. Bon Iver will release a new EP called SABLE.  
+4. The EP SABLE will come out on October 18.  
+5. The title of the EP includes a comma: SABLE,  
+6. Justin Vernon wrote the three main songs for SABLE.  
+7. The songs were written between 2020 and 2023.  
+8. Justin Vernon recorded the songs in Wisconsin.  
+9. He produced the EP with Jim-E Stack.  
+10. The name SABLE means “near-blackness.”  
+11. This EP follows the 2019 album called i,i.  
+12. The EP has three songs listed: “Things Behind Things Behind Things,” “S P E Y S I D E,” and “Awards Season.”","1. Bon Iver is set to release a new EP titled SABLE.
+2. The song “S P E Y S I D E” was released as a single.
+3. The song “S P E Y S I D E” is part of the upcoming EP.
+4. The EP is expected to be released later this year.
+5. The lead single from the EP is “S P E Y S I D E.”
+6. The EP SABLE features a total of five tracks.
+7. The EP is produced by Bon Iver and includes contributions from various producers.
+8. The EP includes collaborations with other artists.
+9. The recordings were done at his studio, April Base.
+10. Bon Iver has announced a tour to support the EP's release.
+11. Bon Iver has stated that the EP reflects their personal experiences.
+12. Bon Iver has described the EP as a continuation of their exploration of sound.","**Bon Iver Announces New EP ""SABLE"" and Tour in Support of Upcoming Release**
+
+Renowned indie folk band Bon Iver is set to captivate fans with the upcoming release of their new EP, titled *SABLE*, which is expected to drop later this year. The highly anticipated project will feature a total of five tracks, including the lead single “S P E Y S I D E,” which has already been released and is garnering attention for its evocative sound and lyrical depth.
+
+Produced by the band themselves, *SABLE* includes contributions from various talented producers and showcases collaborations with other artists, further enriching Bon Iver's signature style. The recordings were meticulously crafted at the band's studio, April Base, known for its intimate and innovative atmosphere.
+
+In a recent statement, Bon Iver shared that the EP reflects their personal experiences, marking a continuation of their exploration of sound that has defined their illustrious career. Fans can expect a blend of familiar elements and new sonic landscapes that push the boundaries of their artistry.
+
+To celebrate the release of *SABLE*, Bon Iver has also announced a supporting tour, with dates and locations set to be revealed in the coming weeks. This tour promises to be an exciting opportunity for fans to experience the new material live, alongside their classic hits.
+
+Stay tuned for further details on the EP and tour as Bon Iver prepares to embark on this new musical chapter.","1. What is the title of Bon Iver's new EP and when is it set to be released?
+2. What is the name of the new song for which Bon Iver released a music video?
+3. Who directed the music video for “S P E Y S I D E” and who stars in it?
+4. Over what period did Justin Vernon write the songs for the SABLE, EP?
+5. What is the significance of the title ""SABLE,"" according to the press release?"
+music_4.json,https://pitchfork.com/news/kj-apa-to-play-bradley-nowell-in-new-sublime-movie,"KJ Apa to Play Bradley Nowell in New Sublime Movie The long-gestating Sublime biopic has cast its lead actor: KJ Apa will play the role of the late singer and bandleader Bradley Nowell, Deadline reports. Blue Bayou filmmaker Justin Chon is also taking over as the movie’s director, and he’s writing the screenplay with Bobby Hundreds. Chon and Hundreds will base the script on an original draft by writer Chris Mundy.
+
+When the as-yet-untitled Sublime movie was announced, in 2022, Francis Lawrence was revealed as the director, though he is now listed as an executive producer. Original Sublime members Bud Gaugh and Eric Wilson are also slated to executive produce, alongside Nowell’s son, Jakob, and his widow, Troy, on behalf of the late singer’s estate.
+
+KJ Apa, who is best known for playing Archie on the CW series Riverdale, has reportedly been pursuing the role of Nowell for two years. The actor is also a musician; he released his debut album, Clocks, in 2021.",gpt-4o-mini,dt03,"1. KJ Apa will play Bradley Nowell in a new movie about the band Sublime.  
+2. Bradley Nowell was a singer and leader of the band Sublime.  
+3. Justin Chon is the director of the Sublime movie.  
+4. Justin Chon is also writing the movie's script with Bobby Hundreds.  
+5. The script is based on a draft by Chris Mundy.  
+6. The movie about Sublime was announced in 2022.  
+7. Francis Lawrence was originally going to direct the movie.  
+8. Francis Lawrence is now an executive producer for the movie.  
+9. Original Sublime band members Bud Gaugh and Eric Wilson are also executive producers.  
+10. Bradley Nowell's son, Jakob, is an executive producer for the movie.  
+11. KJ Apa has wanted to play the role of Nowell for two years.  
+12. KJ Apa is also a musician and released his first album in 2021.","1. A biographical film about the band Sublime is in the works.
+4. The screenplay is being written by a notable screenwriter with a background in music documentaries.
+7. The film will feature original music as well as classic hits from Sublime. 
+10. The release date for the movie has not yet been announced.","**Biopic on Iconic Band Sublime in Development**
+
+In an exciting announcement for music fans, a biographical film focusing on the legendary band Sublime is currently in the works. The film aims to capture the essence of the influential ska-punk group, which has left an indelible mark on the music scene since their formation in the early 1990s.
+
+Notably, the screenplay is being crafted by a renowned screenwriter known for their expertise in music documentaries, promising a narrative that will resonate with both longtime fans and new audiences alike. With a commitment to authenticity, the film is set to feature a blend of original music alongside classic hits that defined Sublime’s unique sound and contributed to their enduring legacy.
+
+While details regarding the plot and casting remain under wraps, fans are eagerly anticipating further announcements. However, it is important to note that the release date for the film has not yet been disclosed.
+
+As anticipation builds for this cinematic tribute to Sublime, the film industry and music lovers alike look forward to a compelling portrayal of the band's journey and the cultural impact they made during their brief but unforgettable career.","1. Who has been cast to play Bradley Nowell in the new Sublime movie?
+2. Who is directing the Sublime biopic and what is his background?
+3. What is the status of the screenplay for the Sublime movie?
+4. Who are some of the executive producers involved in the film?
+5. What notable role is KJ Apa known for before taking on the role of Bradley Nowell?"
+music_5.json,https://pitchfork.com/news/kylie-minogue-announces-new-album-and-2025-world-tour,"Kylie Minogue Announces New Album and 2025 World Tour Kylie Minogue has announced a new album and 2025 world tour in support of her latest album, Tension. The pop star will roll out Tension II, a brand new collection of 13 songs, on October 18 via BMG. Joining Minogue on the upcoming LP are Sia, Orville Peck, Diplo, the Blessed Madonna, Bebe Rexha, and Tove Lo. Its lead single, “Lights Camera Action,” doesn’t come out until September 27, but you can check out the tracklist below in the meantime. Next year, Minogue will bring her world tour to Australia, Asia, and the United Kingdom, with more dates in North and South America to come. The first leg is scheduled to kick off in her home country on February 15 in Perth, Australia, and will last on through to the start of summer next year. Check out her full list of tour dates below. “I am beyond excited to announce the Tension Tour 2025,” Minogue said in a statement. “I can’t wait to share beautiful and wild moments with fans all over the world, celebrating the Tension era and more! It’s been an exhilarating ride so far and now, get ready for your close up because I will be calling Lights, Camera, Action… and there will be a whole lot of Padaming!”
+
+Earlier this year, Minogue won the inaugural award for Best Pop Dance Recording at the 2024 Grammy Awards, with “Padam Padam,” the lead single from Tension. Though she was nominated six times over the years for her work, this was only her second win.",gpt-4o-mini,dt03,"1. Kylie Minogue has a new album called Tension II coming out on October 18.  
+2. The new album has 13 songs.  
+3. Some famous artists are helping Kylie with her new album.  
+4. The first song from the album is called “Lights Camera Action.”  
+5. “Lights Camera Action” will be released on September 27.  
+6. Kylie will go on a world tour in 2025.  
+7. The tour will happen in Australia, Asia, and the United Kingdom.  
+8. More tour dates will be added for North and South America later.  
+9. The first concert is on February 15 in Perth, Australia.  
+10. Kylie is excited to share fun moments with her fans during the tour.  
+11. She won an award for Best Pop Dance Recording at the 2024 Grammy Awards.  
+12. This was only her second win after being nominated six times.  ","1. Kylie Minogue has announced her new album titled ""Disco.""
+4. The album has received positive reviews from music critics.
+7. The album is expected to showcase her signature sound and style. 
+10. The album will be available in various formats, including vinyl and digital.","**Kylie Minogue Announces New Album ""Disco""**
+
+Pop icon Kylie Minogue has delighted fans with the announcement of her upcoming album titled ""Disco."" Set to be released in the coming months, the album is anticipated to feature the artist's signature sound, combining infectious beats and catchy melodies that have defined her illustrious career.
+
+Critics are already buzzing about the project, as early listens have garnered positive reviews, praising Minogue's ability to evolve while maintaining the essence of her musical identity. Known for her unique blend of pop, dance, and disco influences, Minogue is expected to deliver a vibrant collection of tracks that will resonate with both longtime fans and new listeners.
+
+""Disco"" will be available in various formats, including vinyl and digital, catering to a wide audience of music lovers. As the release date approaches, excitement continues to build for what promises to be another standout addition to Minogue's impressive discography.","1. What is the title of Kylie Minogue's new album announced for release?
+2. How many songs will be included in the upcoming album, Tension II?
+3. Who are some of the featured artists collaborating on Tension II?
+4. When is the first leg of Kylie Minogue's world tour scheduled to begin, and where?
+5. What award did Kylie Minogue win at the 2024 Grammy Awards, and for which song?"
+music_6.json,https://pitchfork.com/news/john-cale-announces-the-academy-in-peril-and-paris-1919-reissues,"John Cale Announces The Academy in Peril and Paris 1919 Reissues John Cale has announced reissues of his second and third solo albums; a new edition of 1972’s The Academy in Peril, as well as a deluxe version of 1973’s Paris 1919, will arrive November 15 via Domino. Both records have been remastered by Heba Kadry, and will be available on vinyl, CD, and digital streaming platforms. “Revisiting work from the past is a double-edged sword for me. Of course, it’s bound to happen when you've been making music for 60 years or so,” Cale said of the reissues in a press release. He continued:
+
+What’s unique about this process with Domino, is their desire to get it right. Not merely reissue something for the sake of an anniversary or racking up a catalogue favorite—but finding new treasures and highlighting what made it special in the first place. After hearing the test pressings, it occurred to me that the new mastering was a major part of how these works will be presented, rather than simply being preserved. There are moments of clarity and even a laugh or two had by revisiting not only the music, but recalling the sessions (and antics) that made up what became these two recordings. It is my pleasure to share these with you… again. Cale recorded The Academy in Peril and Paris 1919 not long after he relocated from New York to Los Angeles, following his departure from the Velvet Underground. The two LPs marked Cale’s only solo albums on Reprise; his solo debut, 1970’s Vintage Violence, was issued on Columbia. The Academy in Peril cost Warner Bros. a whopping $120,000, and featured the Royal Philharmonic Orchestra, so things got scaled back a bit for Paris 1919.",gpt-4o-mini,dt03,"1. John Cale is releasing new versions of his old albums.  
+2. The albums are called The Academy in Peril and Paris 1919.  
+3. These new versions will come out on November 15.  
+4. The albums will be available on vinyl, CD, and online.  
+5. A person named Heba Kadry made the albums sound better.  
+6. John Cale has been making music for 60 years.  
+7. He wants to make the albums special, not just for an anniversary.  
+8. Cale enjoyed listening to the new versions of his music.  
+9. He remembers funny moments from when he made the albums.  
+10. Cale made these albums after moving from New York to Los Angeles.  
+11. The Academy in Peril cost a lot of money to make.  
+12. Paris 1919 had a smaller budget compared to The Academy in Peril.","1. John Cale is releasing new versions of his classic albums.
+4. The project aims to reintroduce his music to a new generation of listeners.
+7. The new versions include collaborations with contemporary artists.
+10. The albums will be available on various streaming platforms and physical formats.","**John Cale Revives Classics for a New Generation**
+
+Legendary musician John Cale is set to breathe new life into his iconic albums with a series of revamped releases aimed at captivating a fresh audience. The project, which highlights Cale’s influential sound, seeks to bridge the gap between generations and reintroduce his music to younger listeners who may be unfamiliar with his groundbreaking work.
+
+Each classic album will feature updated versions, reimagined through collaborations with contemporary artists, bringing a modern twist to Cale's timeless compositions. This innovative approach not only honors the original recordings but also showcases the versatility and enduring relevance of his music in today’s diverse musical landscape.
+
+Fans can look forward to these new releases, which will be available across multiple streaming platforms as well as in physical formats. This initiative marks an exciting chapter in Cale’s illustrious career, reinforcing his status as a pioneer in the music industry while inviting new fans to explore his rich catalog. 
+
+Stay tuned for more details on the release dates and artist collaborations that promise to redefine these classic works for a 21st-century audience.","1. What are the titles of the albums being reissued by John Cale?
+2. When will the reissues of The Academy in Peril and Paris 1919 be released?
+3. Who was responsible for remastering the reissued albums?
+4. What unique approach did John Cale mention regarding the reissue process with Domino?
+5. What significant changes occurred in John Cale's career around the time he recorded The Academy in Peril and Paris 1919?"
+music_7.json,https://pitchfork.com/news/metallica-announce-2025-north-american-tour-dates,"Metallica Announce 2025 North American Tour Dates Metallica have announced the 2025 North American leg of their ongoing M72 World Tour, extending the trek into its third year. The new batch of 21 dates kick off next spring with an April 12 festival show at Las Vegas’ Sick New World. Metallica will then play stadiums in Syracuse, Toronto, Nashville, Philadelphia, Houston, and more, before winding down with a pair of shows at Denver’s Empower Field at Mile High on June 27 and 29. Pantera, Suicidal Tendencies, Limp Bizkit, and Ice Nine Kills will support on select dates. Find Metallica’s full itinerary below. Metallica announced their massive M72 World Tour back in 2022, along with the news of their latest album, 72 Seasons. The tour commenced in April, 2023; it will conclude its 2024 run with four nights at Mexico City’s Estadio GNP Seguros later this month, as well as a December 13 show and charity auction in Los Angeles. A portion of the proceeds from every M72 ticket sold will go to local charities via Metallica’s All Within My Hands foundation. The philanthropic non-profit aims to combat hunger, support workforce education, and aid communities with additional critical services. All products featured on Pitchfork are independently selected by our editors. However, when you buy something through our retail links, we may earn an affiliate commission. Metallica:
+
+04-12 Las Vegas, NV - Sick New World
+
+04-19 Syracuse, NY - JMA Wireless Dome *
+
+04-24 Toronto, Ontario - Rogers Centre *
+
+04-26 Toronto, Ontario - Rogers Centre +
+
+05-01 Nashville, TN - Nissan Stadium *
+
+05-03 Nashville, TN - Nissan Stadium +
+
+05-07 Blacksburg, VA - Lane Stadium *
+
+05-09 Columbus, OH - Sonic Temple
+
+05-11 Columbus, OH - Sonic Temple
+
+05-23 Philadelphia, PA - Lincoln Financial Field +
+
+05-25 Philadelphia, PA - Lincoln Financial Field *
+
+05-28 Landover, MD - Northwest Stadium *
+
+05-31 Charlotte, NC - Bank of America Stadium *
+
+06-03 Atlanta, GA - Mercedes-Benz Stadium *
+
+06-06 Tampa, FL - Raymond James Stadium +
+
+06-08 Tampa, FL - Raymond James Stadium *
+
+06-14 Houston, TX - NRG Stadium *
+
+06-20 Santa Clara, CA - Levi's Stadium +
+
+06-22 Santa Clara, CA - Levi's Stadium *
+
+06-27 Denver, CO - Empower Field at Mile High +
+
+06-29 Denver, CO - Empower Field at Mile High *
+
+* with Pantera and Suicidal Tendencies
+
++ with Limp Bizkit and Ice Nine Kills",gpt-4o-mini,dt03,"1. Metallica is going on a tour in North America in 2025.  
+2. The tour is called the M72 World Tour and it started in 2023.  
+3. The first show of the new tour will be on April 12 in Las Vegas.  
+4. Metallica will play in many cities like Syracuse, Toronto, and Nashville.  
+5. The last shows will be in Denver on June 27 and June 29.  
+6. Some other bands will play with Metallica, like Pantera and Limp Bizkit.  
+7. Metallica announced this tour in 2022 with their new album called 72 Seasons.  
+8. A part of the money from ticket sales will go to help local charities.  
+9. Metallica has a foundation called All Within My Hands that helps people in need.  
+10. The foundation helps with hunger, education, and community services.  
+11. Metallica's tour will have 21 shows in total.  
+12. The tour will end with special shows in Mexico City later this year.  ","1. The tour will be Metallica's first since the pandemic.
+4. The tour will kick off in the spring of 2025.
+7. Special VIP packages will be available for fans.
+10. The band has a long history of supporting various charitable causes.","**Metallica Announces First Tour Since Pandemic: Spring 2025 Kickoff**
+
+Legendary rock band Metallica is set to embark on their first tour since the onset of the COVID-19 pandemic, marking a highly anticipated return to the stage for fans around the globe. The tour is scheduled to kick off in the spring of 2025, bringing the heavy metal icons back to arenas and stadiums.
+
+In a statement released by the band, they expressed their excitement about reconnecting with fans after a lengthy hiatus. ""We can't wait to hit the road again and share our music with you all. It's been too long,"" the band said.
+
+In addition to electrifying performances, Metallica will offer special VIP packages for fans, providing exclusive access to behind-the-scenes experiences and premium seating options. These packages are expected to sell out quickly, reflecting the band's robust fan base and the excitement surrounding their return.
+
+Metallica has a long history of supporting various charitable causes, and this tour will continue that tradition. A portion of the proceeds from ticket sales will be donated to organizations focused on mental health and community support, further solidifying the band's commitment to giving back.
+
+As anticipation builds for this monumental tour, fans are encouraged to stay tuned for further details regarding dates and ticket sales. Metallica's return promises to deliver unforgettable performances and a celebration of their enduring legacy in rock music.","1. When does the 2025 North American leg of Metallica's M72 World Tour start?
+2. What cities will Metallica be performing in during their 2025 tour?
+3. Who are the supporting acts for select dates on the tour?
+4. What is the purpose of the proceeds from the M72 ticket sales?
+5. When did Metallica initially announce the M72 World Tour?"
+music_8.json,https://pitchfork.com/news/george-harrisons-living-in-the-material-world-to-be-reissued-for-50th-anniversary,"George Harrison’s Living in the Material World to Be Reissued for 50th Anniversary George Harrison’s Living in the Material World is getting a 50th anniversary reissue, with extras including 12 unreleased recordings. Listen to one, “Give Me Love (Give Me Peace on Earth) (Take 18),” below. Other unearthed songs include a recording of “Sunshine Life for Me (Sail Away Raymond),” featuring the Band’s Robbie Robertson, Levon Helm, Garth Hudson, and Rick Danko, as well as Ringo Starr. That comes on a separate 7"" single in the super deluxe edition. Out November 15, the reissue is newly mixed by Paul Hicks and overseen by Dhani and Olivia Harrison. As well as a 60-page hardcover book of photos, handwritten lyrics, studio notes, and more, the rest of the reissue comprises various alternate takes and acoustic versions, which you can peruse in the tracklist below. All products featured on Pitchfork are independently selected by our editors. However, when you buy something through our retail links, we may earn an affiliate commission. George Harrison: Living in the Material World (50th Anniversary) Buy Now at Rough Trade
+
+Living in the Material World (50th Anniversary):
+
+01 Give Me Love (Give Me Peace on Earth) (2024 Mix)
+
+02 Sue Me, Sue You Blues (2024 Mix)
+
+03 The Light That Has Lighted the World (2024 Mix)
+
+04 Don’t Let Me Wait Too Long (2024 Mix)
+
+05 Who Can See It (2024 Mix)
+
+06 Living in the Material World (2024 Mix)
+
+07 The Lord Loves the One (That Loves the Lord) (2024 Mix)
+
+08 Be Here Now (2024 Mix)
+
+09 Try Some Buy Some (2024 Mix)
+
+10 The Day the World Gets ’Round (2024 Mix)
+
+11 That Is All (2024 Mix)
+
+01 Give Me Love (Give Me Peace on Earth) (Take 18)
+
+02 Sue Me, Sue You Blues (Take 5)
+
+03 The Light That Has Lighted the World (Take 13)
+
+04 Don’t Let Me Wait Too Long (Take 49)
+
+05 Who Can See It (Take 93)
+
+06 Living in the Material World (Take 31)
+
+07 The Lord Loves the One (That Loves the Lord) (Take 3)
+
+08 Be Here Now (Take 8)
+
+09 Try Some Buy Some (Alternative Version)
+
+10 The Day the World Gets ’Round (Take 22)
+
+11 That Is All (Take 24)
+
+12 Miss O’Dell (2024 Mix)
+
+13 Sunshine Life For Me (Sail Away Raymond)",gpt-4o-mini,dt03,"1. George Harrison's album is called ""Living in the Material World.""  
+2. The album is being reissued for its 50th anniversary.  
+3. The reissue will have 12 songs that were never heard before.  
+4. One of the new songs is called ""Give Me Love (Give Me Peace on Earth) (Take 18).""  
+5. The reissue includes a song called ""Sunshine Life for Me (Sail Away Raymond).""  
+6. Ringo Starr played on the new song ""Sunshine Life for Me.""  
+7. The reissue will be released on November 15.  
+8. Paul Hicks made new mixes for the album.  
+9. Dhani and Olivia Harrison helped with the reissue.  
+10. There will be a book with photos and handwritten notes included.  
+11. The reissue has different versions of the original songs.  
+12. You can buy the reissue at Rough Trade.  ","1. The album is titled ""Living in the Material World.""
+4. The album was critically acclaimed upon its release.
+7. The album explores themes of spirituality and personal reflection.
+10. The reissue is set to be released on [insert specific date].","**George Harrison’s “Living in the Material World” Set for Reissue**
+
+In a move that has excited fans and critics alike, the classic album ""Living in the Material World"" by George Harrison is set to be reissued on March 15, 2024. Originally released in 1973, the album received critical acclaim for its profound exploration of spirituality, personal reflection, and the human experience.
+
+Harrison, who achieved global fame as a member of The Beatles, delves into themes of inner peace and existential contemplation throughout the album. With standout tracks such as ""Give Me Love (Give Me Peace on Earth)"" and ""The Answer's at the End,"" the work resonates with listeners seeking deeper meaning in their lives. 
+
+The reissue promises to bring new life to this seminal work, offering remastered audio quality and previously unreleased bonus material that provides further insight into Harrison's creative process. 
+
+As anticipation builds for the release, fans are reminded of Harrison's lasting impact on music and culture, making ""Living in the Material World"" a significant part of his legacy. This reissue not only rekindles interest in Harrison’s solo career but also invites a new generation to experience his unique blend of rock and spirituality. 
+
+Mark your calendars for March 15, 2024, and prepare to revisit a timeless classic that continues to inspire.","1. What is the release date for the 50th anniversary reissue of George Harrison's ""Living in the Material World""?
+2. How many unreleased recordings are included in the reissue?
+3. Who mixed the new version of ""Living in the Material World"" and who oversaw the project?
+4. What special features are included in the super deluxe edition of the reissue?
+5. Can you name one of the collaborating artists featured in the unearthed recording of ""Sunshine Life for Me (Sail Away Raymond)""?"
+music_9.json,https://pitchfork.com/news/lcd-soundsystem-announce-2024-new-york-residency,"LCD Soundsystem Announce 2024 New York Residency Good things keep coming in threes for LCD Soundsystem. They’ve just announced another New York residency, which will take place over the course of three weekends this November and December at Knockdown Center in Queens. A flyer for the series promises “special guest bands” will open the concerts. Check out all of the live dates below. This marks the fourth year in a row that LCD Soundsystem have thrown a New York residency, following shows in 2021, 2022, and 2023—although the first of those was cut short due to a surge of COVID-19 rates. Those special live sets aren’t just for their hometown either, as they’ve also held residencies in London, Philadelphia, and Boston, with one more happening soon in Los Angeles. In 2020, bandleader James Murphy published a lengthy “state of the union” update about LCD Soundsystem, where he addressed the band’s 20th anniversary, the residencies, and the potential for new music. That same year, LCD Soundsystem released “New Body Rhumba” for Netflix’s adaptation of the Don DeLillo novel White Noise. LCD Soundsystem:
+
+09-28 Las Vegas, NV - Life Is Beautiful
+
+10-31 Los Angeles, CA - Shrine Auditorium & Expo Hall
+
+11-01 Los Angeles, CA - Shrine Auditorium & Expo Hall
+
+11-02 Los Angeles, CA - Shrine Auditorium & Expo Hall
+
+11-03 Los Angeles, CA - Shrine Auditorium & Expo Hall
+
+11-07 Los Angeles, CA - Hollywood Palladium
+
+11-08 Los Angeles, CA - Hollywood Palladium
+
+11-09 Los Angeles, CA - Hollywood Palladium
+
+11-10 Los Angeles, CA - Hollywood Palladium
+
+11-21 Queens, NY - Knockdown Center
+
+11-22 Queens, NY - Knockdown Center
+
+11-23 Queens, NY - Knockdown Center
+
+11-24 Queens, NY - Knockdown Center
+
+12-05 Queens, NY - Knockdown Center
+
+12-06 Queens, NY - Knockdown Center
+
+12-07 Queens, NY - Knockdown Center
+
+12-08 Queens, NY - Knockdown Center
+
+12-12 Queens, NY - Knockdown Center
+
+12-13 Queens, NY - Knockdown Center
+
+12-14 Queens, NY - Knockdown Center
+
+12-15 Queens, NY - Knockdown Center",gpt-4o-mini,dt03,"1. LCD Soundsystem will play in New York for three weekends in November and December.  
+2. The concerts will be at a place called Knockdown Center in Queens.  
+3. Each concert will have special guest bands that will play before them.  
+4. This is the fourth year in a row that they are doing concerts in New York.  
+5. They had shows in New York in 2021, 2022, and 2023.  
+6. The 2021 shows were stopped because of COVID-19.  
+7. LCD Soundsystem has also played in London, Philadelphia, and Boston.  
+8. They will have another concert series soon in Los Angeles.  
+9. In 2020, the band leader talked about the band's 20th anniversary.  
+10. They released a song called ""New Body Rhumba"" for a Netflix movie.  
+11. There are many concert dates in Los Angeles and Queens.  
+12. The concerts in Queens will start on November 21 and end on December 15.  ","1. The band is a popular rock group that gained fame in the early 2000s.
+4. The reunion tour marks their first live performances in over five years.
+7. The band originally formed in 1999 and released their first album in 2001.
+10. A documentary about the band's history will be released alongside the tour.","**Rock Legends Reunite: Iconic Band Announces Tour and Documentary Release**
+
+In an exciting development for fans of early 2000s rock, the beloved band **[Band Name]**, which originally formed in 1999, has announced their highly anticipated reunion tour. This marks the first time the group will take the stage for live performances in over five years, reigniting the passion of long-time supporters and drawing in new fans eager to experience their electrifying sound.
+
+The band gained fame with their debut album, released in 2001, which catapulted them into the spotlight with hit singles that still resonate with listeners today. Their unique blend of energetic rock and introspective lyrics struck a chord in the music scene, securing their place as icons of their era.
+
+Alongside the tour, fans can look forward to a documentary that chronicles the band's journey and evolution over the years. This film promises to provide an intimate look at their creative process, personal stories, and the highs and lows of their career, offering a comprehensive view of what has made them a beloved fixture in the music industry.
+
+As anticipation builds for the reunion tour, tickets are expected to sell out quickly, so fans are encouraged to stay alert for the announcement of tour dates and venues. The return of **[Band Name]** is undoubtedly a momentous occasion for rock enthusiasts, and the upcoming documentary is set to enhance the experience, celebrating the legacy of a band that has left an indelible mark on the music landscape. 
+
+Stay tuned for more updates as the tour and documentary release draw nearer.","1. What is the schedule for LCD Soundsystem's 2024 New York residency?
+2. Where will the residency performances take place in New York?
+3. How many years in a row has LCD Soundsystem held a New York residency?
+4. What special feature is promised for the concerts during the residency?
+5. What notable event related to LCD Soundsystem occurred in 2020 regarding their music and anniversary?"
+music_10.json,https://pitchfork.com/news/saturday-night-live-season-50-to-feature-billie-eilish-chappell-roan-ariana-grande,"Saturday Night Live Season 50 to Feature Billie Eilish, Chappell Roan, Ariana Grande, and More The 50th season of Saturday Night Live begins on September 28, and NBC has announced the hosts and musical guests for the season’s first five episodes.
+
+First up, on Saturday 28, are host Jean Smart and musical guest Jelly Roll. Both are making their Saturday Night Live debuts.
+
+Next, on October 5, comedian Nate Bargatze returns as host, and Coldplay are the musical guests. Bargatze made his hosting debut in October of last year in an episode featuring Foo Fighters. Coldplay were also on Saturday Night Live last year, playing “The Astronaut” and “Fix You” in February.
+
+On October 12, Ariana Grande is back on Saturday Night Live just a handful of months after doing Eternal Sunshine songs on the program. This time, though, she’ll be the host—something she’s not done since 2016. The musical guest that night will be the legendary Fleetwood Mac singer Stevie Nicks, who last performed on the show in 1983.
+
+Michael Keaton will host the October 19 episode, and he’ll be joined by Saturday Night Live regular Billie Eilish, who most recently performed on the NBC program in December 2023.
+
+Lastly, former Saturday Night Live writer John Mulaney is the host of the November 2 episode. The musical guest that night will be breakout star Chappell Roan.",gpt-4o-mini,dt03,"1. Saturday Night Live is starting its 50th season on September 28.  
+2. Jean Smart will host the first episode of the new season.  
+3. Jelly Roll will be the musical guest on the first episode.  
+4. Nate Bargatze will host the second episode on October 5.  
+5. Coldplay will perform as the musical guests on the second episode.  
+6. Ariana Grande will host the third episode on October 12.  
+7. Stevie Nicks will be the musical guest when Ariana Grande hosts.  
+8. Michael Keaton will host the fourth episode on October 19.  
+9. Billie Eilish will be the musical guest on the October 19 episode.  
+10. John Mulaney will host the fifth episode on November 2.  
+11. Chappell Roan will be the musical guest when John Mulaney hosts.  
+12. This season will feature many artists making their first appearances on the show.  ","1. The new season of Saturday Night Live will premiere on October 7.
+4. The first episode will be a live broadcast from Studio 8H at Rockefeller Center.
+7. The season will consist of a total of 10 episodes.
+10. The third episode will include a musical performance by a popular artist.","**Saturday Night Live Returns for New Season on October 7**
+
+*New York, NY – September 27, 2023* – The iconic sketch comedy show Saturday Night Live (SNL) is set to kick off its highly anticipated new season on October 7. Fans can look forward to the premiere episode, which will be broadcast live from the legendary Studio 8H at Rockefeller Center in New York City.
+
+This season promises to deliver a total of 10 episodes, featuring a mix of comedy, political satire, and musical performances. Notably, the third episode of the season is expected to showcase a live performance by a popular artist, adding to the excitement and variety that SNL is known for.
+
+As always, the show will feature a rotating cast of guest hosts and an ensemble of talented writers and performers, ensuring that viewers are treated to fresh and engaging content each week.
+
+Mark your calendars – the return of Saturday Night Live is just around the corner!","1. When does the 50th season of Saturday Night Live begin?
+2. Who are the hosts and musical guests for the first episode on September 28?
+3. Which comedian is returning as host on October 5, and who are the musical guests for that episode?
+4. What is significant about Ariana Grande's role on October 12?
+5. Who will host the November 2 episode, and who is the musical guest?"
+music_11.json,https://pitchfork.com/news/the-magnetic-fields-69-love-songs-inspires-new-broadway-show-all-in-comedy-about-love-by-simon-rich,"The Magnetic Fields’ 69 Love Songs Inspires New Broadway Show All In: Comedy About Love by Simon Rich Last week, producers Seaview and Lorne Michaels announced some details about the new Broadway show All In: Comedy About Love by Simon Rich. The production, directed by Alex Timbers, stars John Mulaney and opens at New York’s Hudson Theatre on Wednesday, December 11.
+
+Now, it’s been announced that the musical duo the Bengsons will take part in All In, playing songs from the Magnetic Fields. “69 Love Songs, by the Magnetic Fields, directly inspired me to write the love stories that became All In,” Simon Rich commented in a press release. “Stephin Merritt is my favorite living songwriter, and he’s probably better than all the dead ones I like, too.”
+
+In addition, Stephin Merritt told Rolling Stone, “I am excited to see how this famous humorist has used my songs. It’s always fun to see how actors interpret them, and if I weren’t on tour, I’d be sneaking into rehearsals, pretending to be a stagehand.”
+
+All In: Comedy About Love by Simon Rich, according to a synopsis, features “a series of hilarious stories about dating, heartbreak, marriage and that sort of thing, adapted from the short stories of Simon Rich.” Across its 10-week run, it’ll be performed by a rotating cast of actors, including Fred Armisen, Renée Elise Goldsberry, Saturday Night Live star Chloe Fineman, and Richard Kind.",gpt-4o-mini,dt03,"1. A new Broadway show called All In: Comedy About Love is coming soon.  
+2. The show is written by Simon Rich.  
+3. It will open on December 11 at Hudson Theatre in New York.  
+4. John Mulaney is one of the stars in the show.  
+5. The musical duo the Bengsons will play songs from the Magnetic Fields.  
+6. The show is inspired by the album 69 Love Songs.  
+7. Simon Rich said 69 Love Songs helped him write the stories for the show.  
+8. Stephin Merritt is the songwriter of the Magnetic Fields.  
+9. Merritt is excited to see how his songs are used in the show.  
+10. The show features funny stories about love and relationships.  
+11. Different actors will perform in the show each week.  
+12. Some actors in the show include Fred Armisen and Renée Elise Goldsberry.  ","1. The title of the show is ""Love on Stage.""
+4. The show is set to open in the spring.
+7. Tickets for the show will go on sale next week.
+10. The premiere date for the show is scheduled for April 15th.","**""Love on Stage"" to Premiere This Spring**
+
+The highly anticipated theatrical production ""Love on Stage"" is set to open its curtains on April 15th, offering audiences an unforgettable experience filled with romance and drama. This new show promises to captivate viewers with its compelling storyline and dynamic performances.
+
+Tickets for this much-awaited production will go on sale next week, allowing fans to secure their seats for what is expected to be a sold-out run. As spring approaches, excitement is building around the show, which combines heartfelt narratives with stunning visuals, making it a must-see for theater enthusiasts.
+
+Stay tuned for more updates as we approach the premiere date, and be sure to grab your tickets early to witness the magic of ""Love on Stage.""","1. What is the title of the new Broadway show inspired by the Magnetic Fields' 69 Love Songs?
+2. Who is the director of the production All In: Comedy About Love?
+3. When does the show All In: Comedy About Love open at the Hudson Theatre?
+4. Which musical duo will perform songs from the Magnetic Fields in the show?
+5. What themes does All In: Comedy About Love explore according to its synopsis?"
+music_12.json,https://pitchfork.com/news/haley-heynderickx-announces-new-album-seed-of-a-seed-shares-foxglove-video-watch,"Haley Heynderickx Announces New Album Seed of a Seed, Shares “Foxglove” Video Haley Heynderickx has announced her first new album in six years. Seed of a Seed arrives digitally November 1 and physically December 6 (via Mama Bird Recording Co.). The Portland-based singer-songwriter has shared her second single from the album, “Foxglove,” with a music video directed by Evan Benally Atwood. In the clip, two people embark on an adventure on a grassy mountain while Heynderickx sings and whittles a stick. Watch it below.
+
+The long-awaited follow-up to Heynderickx’s 2018 debut full-length, I Need to Start a Garden, was led by the July single “Seed of a Seed.” While that song was about reclaiming your time, “Foxglove” looks forward to dream of an easygoing future. “[It’s] my daydream tune craving a slower and simpler pace of life,” she explained. “Sometimes it all feels so far away—living in a city being so removed from a life entwined with nature.”
+
+Lyrically, Seed of a Seed centers around the ways in which we’ve distanced ourselves from nature in a world of technology and overconsumption. Joining Heynderickx to flesh out the album’s compositions are drummer Daniel Rossi, trombone player Denzel Mendoza, and bassist Matthew Holmes, with additional parts by electric guitarist William Seiji Marsh and cellist Caleigh Drane.
+
+Read about I Need to Start a Garden in “The Best Rock Albums of 2018.”",gpt-4o-mini,dt03,"1. Haley Heynderickx has a new album called Seed of a Seed.  
+2. The album will be released on November 1 digitally.  
+3. The physical version of the album will come out on December 6.  
+4. Haley Heynderickx is a singer-songwriter from Portland.  
+5. She has shared a new song called “Foxglove.”  
+6. The music video for “Foxglove” shows two people on an adventure.  
+7. The video was directed by Evan Benally Atwood.  
+8. The song “Seed of a Seed” was released in July.  
+9. “Foxglove” is about dreaming of a simpler life.  
+10. The album talks about how we are far from nature because of technology.  
+11. Some musicians helping her with the album are a drummer and a trombone player.  
+12. Her first album was called I Need to Start a Garden.  ","1. The artist's name is Haley Heynderickx.
+4. The album is titled ""Seed of a Seed.""
+7. The album is her debut studio album.
+10. The album is produced by a notable music producer.","**Haley Heynderickx Debuts with Captivating Album ""Seed of a Seed""**
+
+Portland, OR – Emerging singer-songwriter Haley Heynderickx has officially released her debut studio album, ""Seed of a Seed,"" a project that showcases her remarkable talent and unique sound. The album, produced by the acclaimed music producer and collaborator, has already begun to attract attention within the music industry.
+
+""Seed of a Seed"" features a blend of folk-infused melodies and introspective lyrics, a hallmark of Heynderickx's artistry. Critics are praising the album for its emotional depth and innovative arrangements, which highlight her skillful guitar work and evocative vocal style. 
+
+Heynderickx, who has been gaining traction in the indie music scene, expresses her experiences and observations through her songwriting, creating a connection with listeners that is both relatable and profound. With this debut, she is poised to make a significant impact on the contemporary music landscape.
+
+Fans and newcomers alike are encouraged to experience this refreshing addition to the genre, as ""Seed of a Seed"" promises to resonate with anyone who appreciates heartfelt music.","1. What is the title of Haley Heynderickx's new album and when will it be released?
+2. What is the name of the second single from the album and who directed its music video?
+3. How does the song ""Foxglove"" differ thematically from the previous single ""Seed of a Seed""?
+4. What are the central lyrical themes of the album Seed of a Seed?
+5. Who are the musicians collaborating with Haley Heynderickx on this album?"
+music_13.json,https://pitchfork.com/news/allison-russell-joins-hadestown-broadway-cast-reschedules-us-tour-for-2025,"Allison Russell Joins Hadestown Broadway Cast, Reschedules U.S. Tour for 2025 Earlier this year, Allison Russell announced a North American tour that was meant to take place in October and November. She’s had to move it to April and May 2025, but she has a very good reason for the postponement: Russell has joined the cast of Anaïs Mitchell’s acclaimed Broadway musical, Hadestown. Russell will make her debut, as Persephone, on Tuesday, November 12, at New York’s Walter Kerr Theatre. “Impossible for me to fully convey how deeply meaningful, resonant, uplifting, and full circle it is to be making my Broadway debut, starring in the role of Persephone (a Goddess and archetype I have explored in both poetry and song myself since childhood) in this timeless instant classic,” Russell said in a statement. “I am proud to be joining the sisterhood of artists who’ve embodied Persephone, proud to be joining this extraordinary ensemble, proud to become a part of this living, growing legacy. This is a World I’ve dreamt of and one I get to live in now. I am excited and grateful beyond measure to be joining Hadestown! See you way down under the ground!”
+
+Once she gets back on the road, Russell will be touring in support of The Returner. She’ll be joined on tour by special guest Kara Jackson. See Russell’s tour dates, including upcoming shows with Hozier, below. All products featured on Pitchfork are independently selected by our editors. However, when you buy something through our retail links, we may earn an affiliate commission.",gpt-4o-mini,dt03,"1. Allison Russell is joining the Broadway show called Hadestown.  
+2. She had to move her North American tour to 2025.  
+3. The tour was supposed to happen in October and November of this year.  
+4. Russell will start her role in Hadestown on November 12.  
+5. She will play a character named Persephone.  
+6. The show will be at the Walter Kerr Theatre in New York.  
+7. Russell feels very happy and excited about her Broadway debut.  
+8. She has loved the character Persephone since she was a child.  
+9. Russell is proud to join other artists who have played Persephone.  
+10. After her Broadway debut, she will go back on tour.  
+11. Russell's tour will support her album called The Returner.  
+12. Kara Jackson will be a special guest on her tour.  ","1. Tony Award-winning actress Eva Noblezada has been cast in the lead role.  
+2. She will be playing the role of Persephone.  
+3. This will be her first time performing on Broadway.  
+4. The production is directed by Tony Award-winning director Rachel Chavkin.  
+5. The musical has won several Tony Awards.  
+6. Hadestown is a musical that tells the story of Orpheus and Eurydice.  
+7. The show is based on the ancient Greek myth of Orpheus and his journey to the underworld.  
+8. She has previously performed in various music festivals and tours.  
+9. The character of Persephone represents the duality of life and death.  
+10. The musical features a unique blend of American folk music and New Orleans jazz.  
+11. Russell has released her own solo album prior to joining Hadestown.  
+12. The album has received critical acclaim and features a blend of genres.","**Eva Noblezada to Star as Persephone in Broadway's Hadestown**
+
+Broadway is abuzz with excitement as Tony Award-winning actress Eva Noblezada has been cast in the lead role of Persephone in the acclaimed musical Hadestown. This marks Noblezada's much-anticipated debut on the Great White Way, showcasing her extraordinary talent to a wider audience.
+
+Directed by the renowned Tony Award-winning director Rachel Chavkin, Hadestown is a modern retelling of the ancient Greek myth of Orpheus and Eurydice, exploring themes of love, loss, and the cycle of life and death. The character of Persephone, portrayed by Noblezada, embodies the duality of existence, serving as a bridge between the realms of the living and the dead.
+
+Hadestown has already made a significant impact on the theater world, securing several Tony Awards for its innovative storytelling and stunning musical score. The production features a unique blend of American folk music and New Orleans jazz, creating a rich auditory experience that complements its poignant narrative.
+
+Before her role in Hadestown, Noblezada garnered acclaim for her performances at various music festivals and tours, and she released her own solo album, which has received widespread critical praise and showcases her versatility across different musical genres.
+
+Fans of theater and music alike are eager to witness Noblezada's performance, as she takes on this iconic role that promises to leave a lasting impression on Broadway audiences.","1. Why did Allison Russell postpone her North American tour originally scheduled for October and November?
+2. What role will Allison Russell play in the Broadway musical Hadestown?
+3. When is Allison Russell making her Broadway debut?
+4. What are the sentiments expressed by Russell regarding her role as Persephone in Hadestown?
+5. Who will be joining Allison Russell as a special guest on her rescheduled tour?"
+music_14.json,https://pitchfork.com/news/jamie-xx-enlists-romy-and-oliver-sim-for-new-song-waited-all-night-listen,"Jamie xx Enlists Romy and Oliver Sim for New Song “Waited All Night”: Listen Jamie xx has one more new song before he releases his new solo album, In Waves, on Friday, September 20. The new single, “Waited All Night,” features the producer’s two bandmates in the xx, Romy and Oliver Sim. Listen to the reunion track below.
+
+“Thank you to my two best friends and musical siblings, Oliver and Romy,” Jamie xx gushed in a press statement. “It’s wonderful to have the gang back together, working in new ways, working out new lives; I wouldn’t be here without them.”
+
+Romy and Sim added, “We’ve loved collaborating on our recent solo projects, but it’s been a while since the three of us came together on one track. We’re so pleased that this was the place we met up again. Proud to play a small part in this long awaited, brilliant album. We’re your biggest fans, Jamie!”
+
+“Waited All Night” is the first song with all three xx members since 2017’s I See You. In recent years, Jamie xx has also contributed to Romy and Oliver Sim’s respective debut solo albums, Mid Air and Hideous Bastard.
+
+Jamie xx has now shared half of In Waves’ 12 songs. Other singles include: “Baddy on the Floor,” “Treat Each Other Right,” “Life,” “All You Children,” and “Dafodil.”",gpt-4o-mini,dt03,"1. Jamie xx has a new song called “Waited All Night.”  
+2. The song “Waited All Night” will be part of his new album, In Waves.  
+3. The album In Waves will be released on Friday, September 20.  
+4. Romy and Oliver Sim, Jamie's friends, sing in the new song.  
+5. Jamie xx thinks of Romy and Oliver as his best friends and musical siblings.  
+6. It has been a long time since all three members of the xx worked on a song together.  
+7. The last song they did together was in 2017, called I See You.  
+8. Jamie xx has helped Romy and Oliver with their solo albums.  
+9. Romy’s solo album is called Mid Air.  
+10. Oliver Sim’s solo album is called Hideous Bastard.  
+11. Jamie xx has shared six songs from his album In Waves so far.  
+12. Other songs from the album include “Baddy on the Floor” and “Treat Each Other Right.”  ","1. The title of the song is ""Losing It.""
+4. Jamie xx is a British musician and producer.
+7. The song was released as a single in 2022.
+10. Jamie xx's last album, titled In Colour, was released in 2015.","**Jamie xx Returns with New Single ""Losing It"" After Seven-Year Hiatus**
+
+British musician and producer Jamie xx has made a triumphant return to the music scene with his latest single, ""Losing It,"" released in 2022. Fans of the acclaimed artist have eagerly awaited new material since his last album, ""In Colour,"" which debuted back in 2015 to critical acclaim and commercial success.
+
+""Losing It,"" a track that showcases Jamie xx's signature blend of electronic beats and emotive melodies, is already making waves on various music charts. The song reflects the artist's continued evolution in sound while maintaining the distinctive style that won him a dedicated following.
+
+As a key figure in the electronic music landscape, Jamie xx's return is anticipated to reinvigorate interest in his work and set the stage for future projects. With ""Losing It"" marking his first release in several years, fans are excited to see what else the talented producer has in store.","1. What is the title of Jamie xx's new song featuring Romy and Oliver Sim?
+2. When is Jamie xx's solo album, In Waves, scheduled for release?
+3. How did Jamie xx express his appreciation for Romy and Oliver Sim in the press statement?
+4. When was the last time all three members of the xx collaborated on a song before ""Waited All Night""?
+5. How many songs from the album In Waves has Jamie xx shared prior to its release?"
+music_15.json,https://pitchfork.com/news/the-armed-announce-ep-share-new-christianity-video-watch,"The Armed Announce EP, Share “New! Christianity” Video: Watch The Armed have announced a new EP that serves as an extension of last year’s Perfect Saviors. Titled Everlasting Gaze, the EP features three new songs, as well as remixes of “Sport of Form,” by Idles, Water From Your Eyes, and Model/Actriz. One of those singles, “New! Christianity,” featuring guest vocals from Illuminati Hotties’ Sarah Tudzin and Meghan O’Neil, is out now with a Tony Wolski–directed music video. Watch it below.
+
+The Everlasting Gaze EP will arrive on October 18. Eagle-eyed fans could have found the EP sooner, though, as the Armed have also revealed that vinyl copies of Perfect Saviors had a URL inside the jacket that leads to those three new songs. “New! Christianity” was originally conceived as the first single for that album, but was eventually sacrificed, with the idea that it would become “a summary statement appropriate for the finale Side C record and epilogue to the Only Love / Ultrapop / Perfect Saviors trilogy,” said the Armed.
+
+Read about why Pitchfork named Ultrapop one of “The 31 Best Rock Albums of 2021.”
+
+Everlasting Gaze EP:
+
+01 Puzzler
+
+02 New! Christianity
+
+03 Martyr Song
+
+04 Sport of Form (Water From Your Eyes Remix) [ft. Water From Your Eyes]
+
+05 Sport of Form (Model/Actriz Remix) [ft. Model/Actriz]
+
+06 Sport of From (Idles Remix) [ft. Idles]",gpt-4o-mini,dt03,"1. The Armed have a new EP called Everlasting Gaze.  
+2. Everlasting Gaze is an extension of their last EP, Perfect Saviors.  
+3. The new EP has three new songs.  
+4. The EP also has remixes of a song called “Sport of Form.”  
+5. One of the new songs is named “New! Christianity.”  
+6. “New! Christianity” has guest singers Sarah Tudzin and Meghan O’Neil.  
+7. There is a music video for “New! Christianity” directed by Tony Wolski.  
+8. The Everlasting Gaze EP will be available on October 18.  
+9. Fans could find the new songs early on vinyl copies of Perfect Saviors.  
+10. “New! Christianity” was meant to be the first single for the last album.  
+11. The song was saved to be a special ending for the trilogy of albums.  
+12. Pitchfork called an earlier album, Ultrapop, one of the best rock albums of 2021.","1. The EP is titled ""Echoes of Tomorrow.""
+4. The EP has been highly anticipated by fans and critics alike.
+7. The lead single from the EP has already gained significant attention on streaming platforms.
+10. The EP will be available for pre-order starting next month.","**Music Fans Buzzing with Anticipation for ""Echoes of Tomorrow"" EP Release**
+
+In an exciting announcement for music enthusiasts, the highly awaited EP titled ""Echoes of Tomorrow"" is set to be released in the coming months. This project has generated significant buzz among fans and critics alike, who have been eager for new material from the artist.
+
+The lead single from the EP has already captured the attention of listeners, amassing impressive streaming numbers across various platforms. This early success suggests that the EP will likely continue the trend of popularity, as fans eagerly await the full collection of songs.
+
+Starting next month, ""Echoes of Tomorrow"" will be available for pre-order, giving fans the opportunity to secure their copy ahead of the official release. As the anticipation builds, it is clear that this EP is poised to make a significant impact in the music industry.","1. What is the title of the new EP announced by The Armed?
+2. How many new songs are featured in the Everlasting Gaze EP?
+3. Which single from the EP features guest vocals from Illuminati Hotties’ Sarah Tudzin and Meghan O’Neil?
+4. When will the Everlasting Gaze EP be released?
+5. What was the original purpose of the single “New! Christianity” in relation to the album Perfect Saviors?"
+music_16.json,https://pitchfork.com/news/watch-hitech-video-for-new-song-spank,"Watch HiTech’s Video for New Song “Spank!” HiTech have a new song called “Spank!” It comes with a fast-paced music video directed by IGoByCy. Watch it below. King Milo, Milf Melly, and 47Chops are HiTech. The Detroit ghettotech trio made waves, in 2023, with the album Détwat, but it was briefly pulled from digital streaming platforms after a dispute with the group’s former label, FXHE. The album and 2022’s HiTech are now back on streaming services after being re-released via Loma Vista Recordings. HiTech are supporting Nia Archives on tour. The trio will also perform as part of Pitchfork Music Festival Paris on November 9. See HiTech’s tour dates below. Read about HiTech’s Détwat in the Pitchfork feature “The 50 Best Albums of 2023.”
+
+All products featured on Pitchfork are independently selected by our editors. However, when you buy something through our retail links, we may earn an affiliate commission. HiTech: US Tour 2024 / UK & Europe Tour 2024 Buy Now at Ticketmaster
+
+HiTech:
+
+09-19 Washington, D.C. - Culture *
+
+09-20 Miami, FL - The Ground *
+
+09-21 Chicago, IL - Smoke & Mirrors
+
+09-25 Los Angeles, CA - The Fonda Theatre *
+
+09-27 San Francisco, CA - Grey Area Theater
+
+10-01 Seattle, WA - Neptune *
+
+10-04 Vancouver, British Columbia - Celebrities *
+
+10-05 San Diego, CA - Wicked West *
+
+10-06 Austin, TX - Boiler Room Austin
+
+10-09 Montreal, Quebec - Sat *
+
+10-10 Toronto, Ontario - Danforth Music Hall *
+
+10-11 Brooklyn, NY - Brooklyn Steel *
+
+10-16 Amsterdam, Netherlands - Amsterdam Dance Event
+
+10-18 Barcelona, Spain - Nitsa
+
+10-19 Cologne, Germany - Night of Surprise
+
+10-30 Glasgow, Scotland - SWG3 Glasgow *
+
+10-31 Newcastle upon Tyne, England - NX Newcastle *
+
+11-01 Manchester, England - The Warehouse Project *
+
+11-02 Dublin, Ireland - Academy *
+
+11-06 Bristol, England - O2 Academy Bristol *
+
+11-07 Utrecht, Netherlands - Le Guess Who?",gpt-4o-mini,dt03,"1. HiTech has a new song called ""Spank!""  
+2. The music video for ""Spank!"" is fast-paced.  
+3. IGoByCy directed the music video.  
+4. HiTech is made up of three people: King Milo, Milf Melly, and 47Chops.  
+5. In 2023, HiTech released an album called Détwat.  
+6. Détwat was taken off streaming platforms for a short time.  
+7. The album was pulled because of a problem with their old label, FXHE.  
+8. Now, both Détwat and the album HiTech are back on streaming services.  
+9. HiTech is going on tour with Nia Archives.  
+10. They will perform at the Pitchfork Music Festival in Paris on November 9.  
+11. HiTech has many tour dates in the US and Europe in 2024.  
+12. You can buy tickets for HiTech's shows on Ticketmaster.","1. HiTech is a music group known for their unique sound.
+4. The song ""Spank!"" has been described as infectious and catchy.
+7. HiTech has performed at several music festivals since their formation.
+10. The group has a growing fanbase and is active on various social media platforms.","**HiTech: The Rising Stars of Modern Music**
+
+In the ever-evolving landscape of contemporary music, one group is making waves with their distinctive sound and infectious melodies. HiTech, an innovative music ensemble, has captivated audiences since their inception, quickly establishing themselves as a force to be reckoned with in the industry.
+
+Their latest single, ""Spank!"", has been lauded by critics and fans alike for its catchy hooks and vibrant energy. Music reviewers have described the track as ""infectious,"" highlighting its ability to resonate with listeners and keep them coming back for more. The song exemplifies HiTech's creative approach to music, blending various genres to create a fresh auditory experience.
+
+Since forming, HiTech has taken to the stage at several renowned music festivals, showcasing their dynamic performances and engaging stage presence. Their appearances have not only entertained audiences but have also helped solidify their reputation as a must-see act in the live music scene.
+
+With a rapidly expanding fanbase, HiTech has embraced social media as a vital tool for connecting with supporters. The group maintains an active presence across various platforms, sharing updates on new music, upcoming shows, and behind-the-scenes glimpses into their creative process.
+
+As HiTech continues to gain momentum, their infectious sound is sure to resonate even further, making them one of the most exciting acts to watch in the coming years.","1. What is the title of HiTech's new song and who directed the music video?
+2. Which album by HiTech was briefly pulled from digital streaming platforms in 2023, and what was the reason?
+3. What are the names of the members of the HiTech trio?
+4. Who are HiTech currently supporting on tour?
+5. When and where is HiTech scheduled to perform as part of the Pitchfork Music Festival Paris?"
+music_17.json,https://pitchfork.com/news/jeremy-dutcher-becomes-first-two-time-polaris-prize-music-winner-with-2024-victory-for-motewolonuwok,"Jeremy Dutcher Becomes First Two-Time Polaris Music Prize Winner With 2024 Victory for Motewolonuwok New Brunswick, Canada, native Jeremy Dutcher has won the 2024 Polaris Music Prize for his album Motewolonuwok. The Two-Spirit composer and musician is now the first artist in the prize’s 19-year history to win the award twice. (In 2018, Dutcher earned the accolade for his debut studio LP, Wolastoqiyik Lintuwakonawa.) With the victory, given to the artist with the best Canadian album of the year, Dutcher also gets a cash prize of $50,000, courtesy of the Slaight Family Foundation. The 2023 Polaris Music Prize recipient, Debby Friday, revealed Dutcher as the winner during the ceremony she hosted at Toronto’s Massey Hall. The prize was presented by CBC Music, and determined by a jury of writers, programmers, and broadcasters. The other artists who made the 2024 Polaris shortlist were: Bambii, the Beaches, DijahSB, Charlotte Cardin, Elisapie, Cindy Lee, Nobro, Allison Russell, and Tobi. “Six years ago, this award changed my life,” Dutcher said as he accepted the Polaris Music Prize. “I have to give unending gratitude to this music community, please keep your hands going for all of these nominees. Not a single album on that list sounded like each other and that speaks to the breadth of music in this place. This choir, these singers, this band, everyone who helped make this album, I love you. I didn’t think this would happen.”
+
+Dutcher, who now resides in Montreal, Quebec, is a Wolastoqiyik member of the Tobique First Nation in New Brunswick. He is a classically trained Indigenous tenor, composer, and musicologist who sings in English, French, and his people’s native language, Wolastoqey.",gpt-4o-mini,dt03,"1. Jeremy Dutcher won the 2024 Polaris Music Prize for his album Motewolonuwok.  
+2. He is from New Brunswick, Canada.  
+3. Jeremy is the first person to win this prize two times.  
+4. He previously won the prize in 2018 for his first album, Wolastoqiyik Lintuwakonawa.  
+5. The Polaris Music Prize is for the best Canadian album of the year.  
+6. Jeremy received a cash prize of $50,000 for winning.  
+7. The award was announced at a ceremony in Toronto.  
+8. Debby Friday hosted the ceremony and revealed the winner.  
+9. A group of writers and music experts decided who won the prize.  
+10. Other artists were also nominated for the 2024 prize.  
+11. Jeremy is a member of the Tobique First Nation.  
+12. He sings in English, French, and his native language, Wolastoqey.  ","1. The Polaris Music Prize is a Canadian music award.
+2. The Polaris Music Prize was established in 2006.
+3. The Polaris Music Prize is awarded annually.
+4. The prize is open to Canadian artists.
+5. The 2024 ceremony took place on September 18, 2024.
+6. The prize recognizes artistic merit, regardless of genre or sales.
+7. The winner of the prize receives a cash award.
+8. The event was held at the Carlu, a historic venue in downtown Toronto.
+9. The event featured performances by several nominated artists.
+10. The ceremony included a live broadcast.
+11. The nominees for the 2024 prize included artists from various genres.
+12. His music incorporates Indigenous themes and languages.","**Polaris Music Prize 2024 Celebrates Artistic Excellence in Canadian Music**
+
+Toronto, ON – The prestigious Polaris Music Prize, dedicated to recognizing the artistic merit of Canadian musicians, held its annual ceremony on September 18, 2024, at the iconic Carlu venue in downtown Toronto. Established in 2006, the award continues to honor the diverse talents of Canadian artists, celebrating a wide range of genres while prioritizing artistic integrity over commercial success.
+
+This year's event showcased an impressive lineup of performances from the nominated artists, highlighting the rich tapestry of Canadian music. Among the nominees were artists whose work incorporates Indigenous themes and languages, reflecting the cultural depth and diversity of the nation's music scene.
+
+As the ceremony unfolded, viewers were treated to a live broadcast that captured the excitement of the evening, culminating in the announcement of the winner. The recipient of the Polaris Music Prize not only earned the coveted title but also received a substantial cash award, further supporting their artistic endeavors.
+
+The Polaris Music Prize continues to be a vital platform for Canadian musicians, shining a light on talent that might otherwise remain underappreciated. With its commitment to artistic merit and inclusivity, the prize remains a cornerstone of Canada’s vibrant music industry.","1. What is the title of Jeremy Dutcher's winning album for the 2024 Polaris Music Prize?
+2. How many times has Jeremy Dutcher won the Polaris Music Prize?
+3. What is the cash prize amount awarded to the winner of the Polaris Music Prize?
+4. Who announced Jeremy Dutcher as the winner during the award ceremony?
+5. What distinguishes Jeremy Dutcher's music background and cultural heritage?"
+music_18.json,https://pitchfork.com/news/kali-uchis-bad-bunny-and-peso-pluma-nominated-for-2024-latin-grammy-awards,"Kali Uchis, Bad Bunny, and Peso Pluma Nominated for 2024 Latin Grammy Awards Kali Uchis, Bad Bunny, and Peso Pluma are among the nominees for the 2024 Latin Grammy Awards. Edgar Barrera once again leads the pack, facing competition from Bad Bunny and last year’s Album of the Year winner, Karol G, who each picked up eight nominations. Anitta’s two nods include one for Record of the Year, for “Mil Veces.” An award for Best Latin Electronic Music Performance will be contested in its inaugural year, with the Tiësto remix of Bizarrap and Shakira’s “Shakira: Bzrp Music Sessions, Vol. 53” getting a nod alongside artists including Alok and Vikina.
+
+Having had just one nod before this year, Uchis notched up four nominations, including Record of the Year, for her Peso Pluma collaboration “Igual que un Ángel” (one of five nods for Música Mexicana star Pluma) and Best Pop Vocal Album, for Orquídeas, her second project in Spanish. Besides Karol G and Shakira, the Album of the Year nominees include Mon Laferte, Residente, and Carin León, among others. Elsewhere, Devonté Hynes picked up his first-ever Latin Grammy nomination for his Nathy Peluso collaboration “El Día Que Perdí Mi Juventud,” which is nominated for Best Alternative Song.
+
+The 25th Annual Latin Grammy Awards ceremony takes place on November 14 at the Kaseya Center in Miami, Florida. Univision, Galavisión, and ViX will air the three-hour telecast. Find all the nominees via the Latin Grammys website.",gpt-4o-mini,dt03,"1. Kali Uchis, Bad Bunny, and Peso Pluma are nominated for the 2024 Latin Grammy Awards.  
+2. Edgar Barrera has the most nominations this year.  
+3. Bad Bunny and Karol G each have eight nominations.  
+4. Anitta is nominated for Record of the Year for her song ""Mil Veces.""  
+5. The Best Latin Electronic Music Performance award is new this year.  
+6. The Tiësto remix of Bizarrap and Shakira’s song is nominated in the new category.  
+7. Kali Uchis received four nominations this year.  
+8. One of Kali Uchis's nominations is for her song ""Igual que un Ángel"" with Peso Pluma.  
+9. Karol G and Shakira are also nominated for Album of the Year.  
+10. The Latin Grammy Awards will happen on November 14 in Miami, Florida.  
+11. The awards show will be shown on Univision, Galavisión, and ViX.  
+12. You can find all the nominees on the Latin Grammys website.","1. The 2024 Latin Grammy Awards nominations have been announced.
+4. Anitta is nominated for Best Urban Music Album for her album ""Versions of Me.""
+7. Maluma is nominated for Best Latin Pop Album for his album ""Don Juan.""
+10. The awards ceremony will take place on November 14, 2024.","**2024 Latin Grammy Awards Nominations Announced**
+
+The excitement for the 2024 Latin Grammy Awards is building as the nominations were revealed earlier today. This year's nominations feature a diverse array of talent, showcasing the vibrant landscape of Latin music.
+
+Notably, Brazilian superstar Anitta has garnered attention with her nomination for Best Urban Music Album for her critically acclaimed project, ""Versions of Me."" Anitta’s innovative sound and artistic vision have solidified her status as a leading figure in the genre, making her a favorite among fans and critics alike.
+
+In the Best Latin Pop Album category, Colombian heartthrob Maluma is in the spotlight with his album ""Don Juan."" Maluma has consistently pushed the boundaries of Latin pop, and this nomination underscores his influence in the music industry.
+
+The highly anticipated awards ceremony is set to take place on November 14, 2024, promising an evening of celebration and recognition for artists who have made significant contributions to Latin music over the past year. 
+
+As the date approaches, fans and industry insiders alike are eager to see who will take home the coveted awards at this prestigious event.","1. Who are some of the prominent nominees for the 2024 Latin Grammy Awards?
+2. How many nominations did Kali Uchis receive this year?
+3. What notable category is being introduced for the first time at the 2024 Latin Grammy Awards?
+4. When and where will the 25th Annual Latin Grammy Awards ceremony take place?
+5. Which artists are competing for Album of the Year alongside Karol G and Shakira?"
+music_19.json,https://pitchfork.com/news/janes-addiction-days-after-canceling-tour-share-new-song-true-love-listen,"Jane’s Addiction, Days After Canceling Tour, Share New Song “True Love”: Listen On Monday (September 16), Jane’s Addiction said that they’re going “to take some time away as a group” after frontman Perry Farrell attacked guitarist Dave Navarro during a concert. Now, just a couple of days later, there’s a new song from the band’s classic lineup. Listen to “True Love” below.
+
+“True Love” is the second new offering from the reunited Jane’s Addiction lineup of Farrell, Navarro, drummer Stephen Perkins, and bassist Eric Avery. The band, in July, released “Imminent Redemption,” amid a reunion tour. The tour came to halt, however, after Farrell’s incident with Navarro.
+
+Navarro, Perkins, and Avery pinned the tour’s cancellation on Farrell’s “continuing pattern of behavior and the mental health difficulties.” They said, “Our concern for his personal health and safety as well as our own has left us no alternative. We hope that he will find the help he needs.”
+
+In a statement of his own, Farrell apologized to his bandmates and said he was taking “full accountability” for his actions.",gpt-4o-mini,dt03,"1. Jane’s Addiction is a music band.  
+2. They canceled their tour after a fight between two band members.  
+3. The fight happened during a concert.  
+4. The band has a new song called “True Love.”  
+5. “True Love” is the second new song from the band.  
+6. The band’s classic lineup includes Perry Farrell, Dave Navarro, Stephen Perkins, and Eric Avery.  
+7. In July, the band released another song called “Imminent Redemption.”  
+8. The band was on a reunion tour before it got canceled.  
+9. The tour ended because of Farrell’s behavior.  
+10. Other band members were worried about Farrell’s health and safety.  
+11. They said they had no choice but to cancel the tour.  
+12. Farrell said he is sorry and will take responsibility for what happened.","1. The band is known for its alternative rock and has a significant following.
+4. The band has undergone several lineup changes throughout its history.
+7. The band has previously released several successful albums and hit songs.
+10. The band has expressed gratitude for their fans' support during this challenging time.","**Local Band Faces Challenges but Remains Grateful to Fans**
+
+In the ever-evolving landscape of alternative rock, the acclaimed band [Band Name] continues to captivate audiences with their unique sound and dedicated fanbase. Known for their energetic performances and thought-provoking lyrics, the band has solidified its place in the hearts of music lovers across the region.
+
+Despite facing numerous lineup changes over the years, [Band Name] has managed to maintain its artistic integrity and distinct style. Each member has brought their own flair to the group's evolving sound, allowing the band to explore new musical territories while staying true to its roots.
+
+The band's discography boasts several successful albums, including [Album Titles], which have produced hit songs such as [Hit Song Titles]. These tracks not only showcase the band's musical prowess but also highlight their ability to connect with listeners on a deeper level. It is this connection that has fostered a loyal following, even as the band navigates the complexities of the music industry.
+
+Recently, [Band Name] has encountered some challenges that have tested their resilience. In a heartfelt statement, the band expressed gratitude for their fans' unwavering support during this difficult time. ""We wouldn’t be here without you,"" they said, emphasizing the importance of their community in helping them overcome obstacles.
+
+As [Band Name] prepares for their upcoming tour, they remain optimistic about the future. With the support of their fans and a commitment to their craft, the band is ready to face whatever comes next, continuing to inspire and entertain with their distinctive sound.","1. What prompted Jane's Addiction to cancel their tour?
+2. What is the title of the new song released by Jane's Addiction shortly after announcing their break?
+3. Who are the members of the classic lineup of Jane's Addiction featured in the new song?
+4. What was the reason given by Navarro, Perkins, and Avery for the tour's cancellation?
+5. How did Perry Farrell respond to the incident with his bandmates?"
+music_20.json,https://pitchfork.com/news/johnny-marr-responds-to-morrissey-claims-about-smiths-tour-and-trademark,"Johnny Marr Responds to Morrissey’s Claims About Smiths Tour and Trademark In recent weeks, Morrissey has made numerous statements about his old band with Johnny Marr, the Smiths. In one instance, he claimed Marr “ignored” an offer for a 2025 tour. He later claimed that Marr “blocked” a Smiths greatest-hits album. And, most recently, he asserted that Marr obtained the trademark rights to the Smiths’ name “without any consultation to Morrissey, and without allowing Morrissey the standard opportunity of ‘objection.’”
+
+Marr, through his management, has now responded to Morrissey’s various allegations. Find it in full below. Regarding the Smiths trademark, Marr’s management said that, in 2018, “Marr reached out to Morrissey, via his representatives, to work together in protecting The Smiths’ name.” Morrissey apparently did not respond to Marr, which led the latter musician “to register the trademark himself.”
+
+Regarding a compilation album, Marr verified Morrissey’s account, explaining that he declined Warner Music Group’s offer to release a greatest-hits album “given the number already in existence.”
+
+Most crucially for Smiths fans, Marr also confirmed that a reunion tour was offered to him: “I didn’t ignore the offer,” Marr wrote, “I said no.”
+
+The Smiths broke up in 1987, and Johnny Marr and Morrissey have had numerous disputes in the ensuing years. Nevertheless, the idea of a reunion has been on the table in the past, with Marr revealing in his 2016 memoir, Set the Boy Free, that he discussed the possibility of reuniting with Morrissey in 2008. In 2018, a series of concerts billed as “Classically Smiths” were announced.",gpt-4o-mini,dt03,"1. Morrissey made claims about his old band, the Smiths, with Johnny Marr.  
+2. Morrissey said that Marr ignored an offer for a tour in 2025.  
+3. Morrissey claimed that Marr blocked a greatest-hits album for the Smiths.  
+4. Morrissey accused Marr of getting the trademark rights to the Smiths’ name without asking him.  
+5. Marr's management said he tried to work with Morrissey to protect the Smiths' name in 2018.  
+6. Morrissey did not respond to Marr's request to work together.  
+7. Because Morrissey did not reply, Marr registered the trademark himself.  
+8. Marr confirmed that he turned down an offer to release a greatest-hits album.  
+9. Marr said he said no to the tour offer and did not ignore it.  
+10. The Smiths broke up in 1987.  
+11. Marr and Morrissey have had many arguments since the band broke up.  
+12. There was a chance for a reunion in 2008, and concerts called ""Classically Smiths"" were announced in 2018.  ","1. The Smiths were formed in Manchester, England.
+4. Johnny Marr stated that he was surprised by Morrissey's public comments and felt they misrepresented their relationship.
+7. Morrissey accused Marr of trying to profit from the band's name without his consent.
+10. The Smiths disbanded in 1987 after a series of tensions between the band members.","**Tensions Erupt Between Former Bandmates: The Smiths’ Legacy in Jeopardy**
+
+*Manchester, England – The iconic band The Smiths, known for their profound impact on the music scene in the 1980s, is once again making headlines amidst a public feud between former members Morrissey and Johnny Marr. The band, formed in Manchester, has long been celebrated for its unique sound and introspective lyrics, but recent developments have cast a shadow over its legacy.*
+
+In a recent interview, Johnny Marr expressed his surprise at Morrissey’s remarks regarding their relationship, stating that he felt the comments misrepresented the dynamics of their partnership. Marr, the band's guitarist and co-songwriter, emphasized the creativity and camaraderie that characterized their time together, countering Morrissey’s allegations.
+
+Morrissey, the band’s charismatic frontman, has accused Marr of attempting to profit from The Smiths’ name without his consent, further fueling the rift that has become public knowledge. The discord between the two has raised questions about the future of the band's catalog and how it will be managed moving forward.
+
+The Smiths disbanded in 1987, following a series of tensions among the members that ultimately led to their split. Since then, both Morrissey and Marr have pursued solo careers, but the legacy of The Smiths continues to resonate with fans worldwide.
+
+As both artists navigate this latest chapter in their relationship, the music community watches closely, hoping that the enduring influence of The Smiths will not be overshadowed by personal disputes.","1. What claims has Morrissey made about Johnny Marr regarding a potential 2025 tour?
+2. How did Johnny Marr respond to Morrissey's allegations about obtaining the trademark rights to the Smiths' name?
+3. What reason did Marr give for declining the offer to release a greatest-hits album?
+4. Did Johnny Marr confirm or deny that he ignored an offer for a reunion tour?
+5. What history of disputes exists between Johnny Marr and Morrissey since the Smiths' breakup in 1987?"
