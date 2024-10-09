@@ -1,3 +1,4 @@
-data/imgs
-data/processed
-data/raw
+data
+agreement_2_annotators.py
+llm_label_goodness.py
+.DS_Store
