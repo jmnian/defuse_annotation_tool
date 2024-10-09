@@ -1,9 +1,0 @@
-doc_id,q_id,is_confusing,question,LLM_r,response,confusion,defusion,is_defused
-sport_5.json,1,yes,Who is the new starting quarterback for the Tampa Bay Buccaneers for the 2023 season?,gpt-3.5,The new starting quarterback for the Tampa Bay Buccaneers for the 2023 season is Baker Mayfield.,Yes,No,no
-sport_5.json,6,yes,How does Mayfield plan to foster a team atmosphere during practices and games?,gpt-3.5,Mayfield plans to foster a team atmosphere during practices and games by being himself and bringing joy back to football for some of the players who weren't having as much fun.,"Yes, the question contains a confusing part. The question assumes that Mayfield has explicitly stated how he plans to foster a team atmosphere during practices and games, which is not mentioned in the document.",No,no
-sport_12.json,3,yes,What title did Caleb Williams earn during the 2022 college football season?,gpt-3.5,He won the 2023 Heisman Trophy.,"Yes
-
-The question contains incorrect information. It states that Caleb Williams won the Heisman Trophy in 2023, but the document states that he won it in 2022.",No,no
-sport_20.json,2,yes,Which university did Jonathan Taylor attend?,gpt-3.5,Jonathan Taylor attended the University of Wisconsin.,"Yes
-
-The confusing part in the question is that it mentions Jonathan Taylor, who is not mentioned in the document. The document talks about Braelon Allen, a rookie running back for the New York Jets, and provides information about his college career at Wisconsin.",No,no
