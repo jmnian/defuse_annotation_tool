@@ -4,7 +4,7 @@ import os
 from os.path import join, exists
 
 # Example: 'data/experiments/llmq-gpt-4o-mini/llmr-gpt-3.5/docp-dt03'
-experiment_folder = '/experiment'
+experiment_folder = os.getcwd() + '/experiment'
 
 # Load CSV files
 @st.cache_data
