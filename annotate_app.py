@@ -234,9 +234,88 @@ def check_if_document_fully_annotated(annotations_df, doc_id, qrc_data, return_b
         remaining_question_indexes = [question_mapping[question] for question in remaining_questions]
         st.info(f"Question # not yet annotated: {sorted(remaining_question_indexes)} for Document {doc_id}")
 
+# OLD VERSION WHERE I JUST SHOW EVERYTHING
+# def show_question_contents_and_annotation_form(qrc_data, doc_id, csv_path, annotations_df):
+#     # Select all questions associated with this document
+#     selected_qrc = qrc_data[(qrc_data["doc_id"] == doc_id)]
+#     # Shuffle
+#     selected_qrc = selected_qrc.sample(frac=1, random_state=42).reset_index(drop=True)
+
+#     if not selected_qrc.empty:
+#         for index, row in selected_qrc.iterrows():
+#             q_id = row['q_id']
+#             supposed_to_be_confusing = row['is_confusing']
+#             st.write(f"**Question #{index + 1}**:")  # This is NOT the actual q_id, it's just here so annotators know where they are at.
+#             llm_confuse_label = row['confusion'].split("\n")[0]
+#             llm_defuse_label = row['is_defused']
+#             st.text_area("Question:", value=row['question'], key=f"question_{index}")
+#             st.text_area("Response:", value=row['response'], key=f"response_{index}")
+
+#             with st.form(key=f'annotation_form_{index}', clear_on_submit=True):
+#                 st.write("##### Your Annotations:")
+#                 human_confuse_label_options = ["Did not select", "Yes", "No"]
+#                 human_confuse_label = st.radio(
+#                     "Is this question confusing? (Please select Yes or No)",
+#                     human_confuse_label_options,
+#                     key=f"human_confuse_label_{index}",
+#                 )
+#                 question_category_options = ['False Premise/Assumption', 'Not Mentioned/Relevant', 'Ambiguous', 'Other']
+#                 question_category = st.multiselect(
+#                     "Select the category of confusion (usually 1 category is enough):",
+#                     options=question_category_options,
+#                     key=f"question_category_{index}"
+#                 )
+#                 # If 'Other' is selected, display a text input for the custom category
+#                 other_category = ""
+#                 if 'Other' in question_category:
+#                     other_category = st.text_input(
+#                         "Please specify the other category:",
+#                         key=f"other_category_{index}"
+#                     )
+#                 human_defuse_label_options = ["Did not select", "Yes", "No"]
+#                 human_defuse_label = st.radio(
+#                     "Did the LLM's response defuse the confusion? Select \"Did not select\" if the question is not confusing in the first place",
+#                     human_defuse_label_options,
+#                     key=f"human_defuse_label_{index}",
+#                 )
+#                 submit_button = st.form_submit_button(label='Submit')
+#                 if submit_button:
+#                     # Handle 'Other' category
+#                     if 'Other' in question_category:
+#                         if other_category:
+#                             question_category.remove('Other')  # Remove 'Other' placeholder
+#                             question_category.append(other_category)  # Add the custom category
+#                         else:
+#                             st.error("Please specify the 'Other' category.")
+#                             st.stop()
+                            
+#                     question_category_str = ', '.join(question_category) if question_category else "Did not select"
+
+#                     # When the submit button is clicked, append the data to the CSV
+#                     row_data = {
+#                         'doc_id': doc_id,
+#                         'q_id': q_id,
+#                         'supposed_to_be_confusing': supposed_to_be_confusing,
+#                         'llm_confuse_label': llm_confuse_label,
+#                         'llm_defuse_label': llm_defuse_label,
+#                         'human_confuse_label': human_confuse_label,
+#                         'human_defuse_label': human_defuse_label,
+#                         'question_category': question_category_str
+#                     }
+#                     append_row_to_csv(csv_path, row_data, qrc_data)
+                    
+                    
+#             st.write("---")  # Add a separator between questions
+#     else:
+#         st.write("No data found for the selected document and confusion status.")
+
+
+
+
+# NEED TO CLICK SUBMIT TWICE
 def show_question_contents_and_annotation_form(qrc_data, doc_id, csv_path, annotations_df):
     # Select all questions associated with this document
-    selected_qrc = qrc_data[(qrc_data["doc_id"] == doc_id)]
+    selected_qrc = qrc_data[qrc_data["doc_id"] == doc_id]
     # Shuffle
     selected_qrc = selected_qrc.sample(frac=1, random_state=42).reset_index(drop=True)
 
@@ -244,66 +323,110 @@ def show_question_contents_and_annotation_form(qrc_data, doc_id, csv_path, annot
         for index, row in selected_qrc.iterrows():
             q_id = row['q_id']
             supposed_to_be_confusing = row['is_confusing']
-            st.write(f"**Question #{index + 1}**:")  # This is NOT the actual q_id, it's just here so annotators know where they are at.
+            st.write(f"**Question #{index + 1}**:")
             llm_confuse_label = row['confusion'].split("\n")[0]
             llm_defuse_label = row['is_defused']
+
+            # Display the Question
             st.text_area("Question:", value=row['question'], key=f"question_{index}")
-            st.text_area("Response:", value=row['response'], key=f"response_{index}")
 
-            with st.form(key=f'annotation_form_{index}', clear_on_submit=True):
-                st.write("##### Your Annotations:")
-                human_confuse_label_options = ["Did not select", "Yes", "No"]
-                human_confuse_label = st.radio(
-                    "Is this question confusing? (Please select Yes or No)",
-                    human_confuse_label_options,
-                    key=f"human_confuse_label_{index}",
-                )
-                question_category_options = ['False Premise/Assumption', 'Not Mentioned/Relevant', 'Ambiguous', 'Other']
-                question_category = st.multiselect(
-                    "Select the category of confusion (usually 1 category is enough):",
-                    options=question_category_options,
-                    key=f"question_category_{index}"
-                )
-                # If 'Other' is selected, display a text input for the custom category
-                other_category = ""
-                if 'Other' in question_category:
-                    other_category = st.text_input(
-                        "Please specify the other category:",
-                        key=f"other_category_{index}"
+            # Define keys for session state
+            human_confuse_label_key = f"human_confuse_label_{index}"
+            form1_submitted_key = f"form1_submitted_{index}"
+
+            # Initialize form1_submitted in session_state if not set
+            if form1_submitted_key not in st.session_state:
+                st.session_state[form1_submitted_key] = False
+
+            if not st.session_state[form1_submitted_key]:
+                # Form 1: Ask "Is this question confusing?"
+                with st.form(key=f'form1_{index}'):
+                    human_confuse_label_options = ["Did not select", "Yes", "No"]
+                    human_confuse_label = st.radio(
+                        "Is this question confusing? (Please select Yes or No)",
+                        human_confuse_label_options,
+                        key=human_confuse_label_key,
                     )
-                human_defuse_label_options = ["Did not select", "Yes", "No"]
-                human_defuse_label = st.radio(
-                    "Did the LLM's response defuse the confusion? Select \"Did not select\" if the question is not confusing in the first place",
-                    human_defuse_label_options,
-                    key=f"human_defuse_label_{index}",
-                )
-                submit_button = st.form_submit_button(label='Submit')
-                if submit_button:
-                    # Handle 'Other' category
-                    if 'Other' in question_category:
-                        if other_category:
-                            question_category.remove('Other')  # Remove 'Other' placeholder
-                            question_category.append(other_category)  # Add the custom category
+                    submit_button = st.form_submit_button(label='Submit')
+                    if submit_button:
+                        if human_confuse_label == "Did not select":
+                            st.info("Please select 'Yes' or 'No' before submitting.")
                         else:
-                            st.error("Please specify the 'Other' category.")
-                            st.stop()
-                            
-                    question_category_str = ', '.join(question_category) if question_category else "Did not select"
+                            st.session_state[form1_submitted_key] = True
+                            if human_confuse_label == "No":
+                                # Save data immediately
+                                row_data = {
+                                    'doc_id': doc_id,
+                                    'q_id': q_id,
+                                    'supposed_to_be_confusing': supposed_to_be_confusing,
+                                    'llm_confuse_label': llm_confuse_label,
+                                    'llm_defuse_label': llm_defuse_label,
+                                    'human_confuse_label': human_confuse_label,
+                                    'human_defuse_label': "Did not select",
+                                    'question_category': ""
+                                }
+                                append_row_to_csv(csv_path, row_data, qrc_data)
+                            elif human_confuse_label == "Yes":
+                                # Proceed to next form
+                                pass
+            else:
+                human_confuse_label = "Yes"
+                # Since form1 was submitted and human_confuse_label is "Yes", proceed to next form
+                st.text_area("Response:", value=row['response'], key=f"response_{index}")
+                # Form 2: Additional annotations
+                with st.form(key=f'form2_{index}', clear_on_submit=True):
+                    st.write("##### Since you think the question is confusing:")
+                    question_category_options = [
+                        'False Premise/Assumption',
+                        'Not Mentioned/Relevant',
+                        'Ambiguous',
+                        'Other'
+                    ]
+                    question_category = st.multiselect(
+                        "Select the category of confusion (usually 1 category is enough):",
+                        options=question_category_options,
+                        key=f"question_category_{index}"
+                    )
+                    # If 'Other' is selected, display a text input for the custom category
+                    other_category = ""
+                    if 'Other' in question_category:
+                        other_category = st.text_input(
+                            "Please specify the other category:",
+                            key=f"other_category_{index}"
+                        )
+                    human_defuse_label_options = ["Did not select", "Yes", "No"]
+                    human_defuse_label = st.radio(
+                        "Did the LLM's response defuse the confusion?",
+                        human_defuse_label_options,
+                        key=f"human_defuse_label_{index}",
+                    )
+                    submit_button = st.form_submit_button(label='Submit')
+                    if submit_button:
+                        if human_defuse_label == "Did not select":
+                            st.info("Please select 'Yes' or 'No' before submitting.")
+                        else:
+                            if 'Other' in question_category:
+                                if other_category:
+                                    question_category.remove('Other')  # Remove 'Other' placeholder
+                                    question_category.append(other_category)  # Add the custom category
+                                else:
+                                    st.error("Please specify the 'Other' category.")
+                                    st.stop()
 
-                    # When the submit button is clicked, append the data to the CSV
-                    row_data = {
-                        'doc_id': doc_id,
-                        'q_id': q_id,
-                        'supposed_to_be_confusing': supposed_to_be_confusing,
-                        'llm_confuse_label': llm_confuse_label,
-                        'llm_defuse_label': llm_defuse_label,
-                        'human_confuse_label': human_confuse_label,
-                        'human_defuse_label': human_defuse_label,
-                        'question_category': question_category_str
-                    }
-                    append_row_to_csv(csv_path, row_data, qrc_data)
-                    
-                    
+                            question_category_str = ', '.join(question_category) if question_category else "Did not select"
+
+                            # When the submit button is clicked, append the data to the CSV
+                            row_data = {
+                                'doc_id': doc_id,
+                                'q_id': q_id,
+                                'supposed_to_be_confusing': supposed_to_be_confusing,
+                                'llm_confuse_label': llm_confuse_label,
+                                'llm_defuse_label': llm_defuse_label,
+                                'human_confuse_label': human_confuse_label,
+                                'human_defuse_label': human_defuse_label,
+                                'question_category': question_category_str
+                            }
+                            append_row_to_csv(csv_path, row_data, qrc_data)
             st.write("---")  # Add a separator between questions
     else:
         st.write("No data found for the selected document and confusion status.")
