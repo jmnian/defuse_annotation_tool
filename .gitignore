@@ -2,3 +2,9 @@ data
 agreement_2_annotators.py
 llm_label_goodness.py
 .DS_Store
+experiment/3_articles
+experiment/group1
+experiment/group2
+experiment/group3
+qrc_consistent.csv
+silver_99_117.csv

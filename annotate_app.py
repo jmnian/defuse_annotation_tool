@@ -11,14 +11,7 @@ experiment_folder = os.getcwd() + '/experiment'
 def load_csv_data(data_dir):
     doc_data = pd.read_csv(join(data_dir, "docs_out.csv"))  # Load document CSV
     qrc_data = pd.read_csv(join(data_dir, "qrc_out.csv"))  # Load QRC CSV
-    try:
-        qrc_filter_data = pd.read_csv(join(data_dir, "qrc_filter.csv"))
-        if qrc_filter_data.empty:
-            st.warning("The qrc_filter.csv file is empty.")
-    except pd.errors.EmptyDataError:
-        qrc_filter_data = pd.DataFrame()
-        st.warning("The qrc_filter.csv file is blank or could not be read.")
-    return doc_data, qrc_data, qrc_filter_data
+    return doc_data, qrc_data
 
 def init():
     # Set the layout to wide to make use of the full screen width
@@ -130,7 +123,7 @@ def check_and_create_annotations_csv(csv_path):
                 # Create the DataFrame with the specified columns
                 columns = [
                     'doc_id', 'q_id', 'supposed_to_be_confusing', 'llm_confuse_label',
-                    'llm_defuse_label', 'human_confuse_label', 'human_defuse_label',
+                    'human_confuse_label', 'human_defuse_label',
                     'question_category'
                 ]
                 annotations_df = pd.DataFrame(columns=columns)
@@ -325,7 +318,6 @@ def show_question_contents_and_annotation_form(qrc_data, doc_id, csv_path, annot
             supposed_to_be_confusing = row['is_confusing']
             st.write(f"**Question #{index + 1}**:")
             llm_confuse_label = row['confusion'].split("\n")[0]
-            llm_defuse_label = row['is_defused']
 
             # Display the Question
             st.text_area("Question:", value=row['question'], key=f"question_{index}")
@@ -360,7 +352,6 @@ def show_question_contents_and_annotation_form(qrc_data, doc_id, csv_path, annot
                                     'q_id': q_id,
                                     'supposed_to_be_confusing': supposed_to_be_confusing,
                                     'llm_confuse_label': llm_confuse_label,
-                                    'llm_defuse_label': llm_defuse_label,
                                     'human_confuse_label': human_confuse_label,
                                     'human_defuse_label': "Did not select",
                                     'question_category': ""
@@ -421,7 +412,6 @@ def show_question_contents_and_annotation_form(qrc_data, doc_id, csv_path, annot
                                 'q_id': q_id,
                                 'supposed_to_be_confusing': supposed_to_be_confusing,
                                 'llm_confuse_label': llm_confuse_label,
-                                'llm_defuse_label': llm_defuse_label,
                                 'human_confuse_label': human_confuse_label,
                                 'human_defuse_label': human_defuse_label,
                                 'question_category': question_category_str
@@ -442,7 +432,7 @@ exp_name, data_dir = sidebar_logic(cwd, experiment_folder)
 csv_path = check_username_csv_path(cwd, exp_name)
 
 # Load data
-doc_data, qrc_data, qrc_filter_data = load_csv_data(data_dir)
+doc_data, qrc_data = load_csv_data(data_dir)
 
 # Load annotations DataFrame
 if exists(csv_path):
@@ -450,7 +440,7 @@ if exists(csv_path):
 else:
     columns = [
         'doc_id', 'q_id', 'supposed_to_be_confusing', 'llm_confuse_label',
-        'llm_defuse_label', 'human_confuse_label', 'human_defuse_label',
+        'human_confuse_label', 'human_defuse_label',
         'question_category'
     ]
     annotations_df = pd.DataFrame(columns=columns)
